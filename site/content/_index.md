@@ -1,5 +1,5 @@
 ---
-title: Great coffee with a conscience
+title: Passionate about making life better.
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/go-to-step-one.jpg
 blurb:
