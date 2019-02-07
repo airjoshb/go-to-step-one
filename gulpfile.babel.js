@@ -44,6 +44,17 @@ gulp.task("css", () => (
       cssnext(),
       cssnano(),
     ]))
+    .pipe(
+      purgecss({
+        content: ["**/*.html"],
+        extractors: [
+          {
+            extractor: TailwindExtractor,
+            extensions: ["html"]
+          }
+        ]
+      })
+    )
     .pipe(gulp.dest("./dist/css"))
     .pipe(browserSync.stream())
 ));
