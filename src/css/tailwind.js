@@ -205,7 +205,7 @@ let colors = {
         'sans-serif',
       ],
       'serif': [
-        'Crimson Text',
+        'CT',
         'Lucida Bright',
         'Lucidabright',
         'Lucida Serif',

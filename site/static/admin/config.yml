@@ -1,9 +1,10 @@
 backend:
-  name: github
+  name: git-gateway
   repo: airjoshb/go-to-step-one
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 publish_mode: editorial_workflow
+logo_url: "/img/step-one-icon.svg"
 
 
 collections: # A list of collections the CMS should be able to edit
@@ -15,6 +16,15 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Intro Blurb", name: "description", widget: "text"}
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "update" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Update" # Used in the UI, ie.: "New Post"
+    folder: "site/content/update" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"

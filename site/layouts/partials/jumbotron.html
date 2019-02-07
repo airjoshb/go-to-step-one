@@ -1,22 +1,14 @@
-<header class="w-full h-screen relative overflow-hidden py-3 px-5 border-b-8 border-solid border-green-dark">
+<header class="w-full h-screen flex items-center relative overflow-hidden py-3 px-5 border-b-8 border-solid border-green-dark">
   <img class="absolute l-0 t-0 h-auto" src={{.imageUrl}} />
-  <div class="flex justify-end">
-   
+  
+  <div class="relative w-full text-right">
+    <h1 class="font-serif text-3xl white">
+      {{.title}}
+    </h1>
+    {{ if .subtitle }}
+    <p class="text-xl">
+      {{.subtitle}}
+    </p>
+    {{ end }}
   </div>
-        
-    
-    <div class="db mb3">
-      <div class="mw7 relative bg-fix-primary mb3">
-        <h1 class="font-serif text-3xl white">
-          {{.title}}
-        </h1>
-      </div>
-      <div class="mw7 relative bg-fix-primary">
-        {{ if .subtitle }}
-        <p class="b f4 di lh-title mb3 white mw6 bg-primary">
-          {{.subtitle}}
-        </p>
-        {{ end }}
-      </div>
-    </div>
 </header>

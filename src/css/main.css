@@ -84,3 +84,8 @@
 @import './imports/_colors';
 @import './imports/_media-queries';
 @import './imports/_variables';
+@font-face {
+    font-family: CT;
+    src: url('https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,700,700i');
+}
+

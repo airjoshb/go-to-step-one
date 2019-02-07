@@ -6,7 +6,7 @@ import PostPreview from "./cms-preview-templates/post";
 import ProductsPreview from "./cms-preview-templates/products";
 import AboutPreview from "./cms-preview-templates/about";
 import ContactPreview from "./cms-preview-templates/contact";
-
+import UpdatePreview from "./cms-preview-templates/update";
 
 
 
@@ -16,4 +16,5 @@ CMS.registerPreviewTemplate("post", PostPreview);
 CMS.registerPreviewTemplate("products", ProductsPreview);
 CMS.registerPreviewTemplate("about", AboutPreview);
 CMS.registerPreviewTemplate("contact", ContactPreview);
+CMS.registerPreviewTemplate("update", UpdatePreview);
 CMS.registerWidget("color", ColorControl);
