@@ -3,7 +3,7 @@ import path from "path";
 
 export default {
   module: {
-    loaders: [
+    rules: [
       {
         test: /\.((png)|(eot)|(woff)|(woff2)|(ttf)|(svg)|(gif))(\?v=\d+\.\d+\.\d+)?$/,
         loader: "file-loader?name=/[hash].[ext]"
@@ -19,7 +19,7 @@ export default {
 
   plugins: [
     new webpack.ProvidePlugin({
-      "fetch": "imports-loader?this=>global!exports-loader?global.fetch!whatwg-fetch"
+      "fetch": "exports-loader?self.fetch!whatwg-fetch"
     })
   ],
 

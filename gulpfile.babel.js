@@ -2,6 +2,7 @@ import gulp from "gulp";
 import cp from "child_process";
 import gutil from "gulp-util";
 import postcss from "gulp-postcss";
+import purgecss from "gulp-purgecss";
 import cssImport from "postcss-import";
 import cssnext from "postcss-cssnext";
 import BrowserSync from "browser-sync";
@@ -11,10 +12,20 @@ import svgstore from "gulp-svgstore";
 import svgmin from "gulp-svgmin";
 import inject from "gulp-inject";
 import cssnano from "cssnano";
+import tailwindcss from "tailwindcss";
 
 const browserSync = BrowserSync.create();
 const hugoBin = `./bin/hugo.${process.platform === "win32" ? "exe" : process.platform}`;
 const defaultArgs = ["-d", "../dist", "-s", "site"];
+const tailwindConfig = "src/css/tailwind.js";
+
+// Custom PurgeCSS Extractor
+// https://github.com/FullHuman/purgecss
+class TailwindExtractor {
+  static extract(content) {
+    return content.match(/[A-z0-9-:\/]+/g) || [];
+  }
+}
 
 if (process.env.DEBUG) {
   defaultArgs.unshift("--debug")
@@ -25,10 +36,11 @@ gulp.task("hugo-preview", (cb) => buildSite(cb, ["--buildDrafts", "--buildFuture
 gulp.task("build", ["css", "js", "hugo"]);
 gulp.task("build-preview", ["css", "js", "hugo-preview"]);
 
+
 gulp.task("css", () => (
   gulp.src("./src/css/*.css")
     .pipe(postcss([
-      cssImport({from: "./src/css/main.css"}),
+      cssImport(tailwindcss(tailwindConfig)),
       cssnext(),
       cssnano(),
     ]))

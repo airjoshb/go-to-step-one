@@ -1,8 +1,13 @@
-<div class="pv5 pv6-l ph3 bg-center cover" style="background-image: url('{{.imageUrl}}')">
-  <div class="mw7 center ph3">
+<header class="w-full h-screen relative overflow-hidden py-3 px-5 border-b-8 border-solid border-green-dark">
+  <img class="absolute l-0 t-0 h-auto" src={{.imageUrl}} />
+  <div class="flex justify-end">
+   
+  </div>
+        
+    
     <div class="db mb3">
       <div class="mw7 relative bg-fix-primary mb3">
-        <h1 class="f2 f1-l b di lh-title mb3 white mw6 bg-primary">
+        <h1 class="font-serif text-3xl white">
           {{.title}}
         </h1>
       </div>
@@ -14,5 +19,4 @@
         {{ end }}
       </div>
     </div>
-  </div>
-</div>
+</header>
