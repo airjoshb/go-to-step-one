@@ -6,7 +6,8 @@ header img {
 }
 header .flex * { z-index: 50;}
 header a { text-transform: uppercase; font-weight: 700;}
-svg path {fill: config("colors.brand");}
+.fill-brand {fill: config("colors.brand");}
+.fill-white {fill: config("colors.grey-lightest");}
 a {text-decoration: none; box-shadow: inset 0 -1px 0 config("colors.brand-light");}
 a:hover {color: config("colors.brand-light"); box-shadow: inset 0 -1px 0 config("colors.brand-light")}
 nav div:hover::before {
@@ -19,3 +20,4 @@ nav div:hover::before {
     border-radius: 50%;
     background-color: config("colors.grey-light");}
 nav a, nav a:hover {box-shadow: none;}
+.update p {margin-bottom: 0;}

@@ -1,21 +1,18 @@
-<div class="bg-grey-1 pv4">
-	<div class="ph3 mw7 center">
+<section class="py-6 px-6 lg:px-20">
+	<container class="flex">
+		<div class="lg:w-2/3">
+			<h2 class="font-bold text-xl text-brand">{{.heading}}</h2>
 
-		<div class="flex-l mhn2-l">
-			<div class="w-40-l ph2-l">
-				<h2 class="f2 b lh-title mb2">{{.heading}}</h2>
-
-				<p>{{.text}}</p>
-			</div>
-
-			<div class="w-60-l ph2-l">
-				<img src="img/home-about-section.jpg" alt="" class="mb3">
-			</div>
+			<p>{{.text}}</p>
 		</div>
 
-		<div class="tc">
-			<a href="{{.buttonLink}}" class="btn raise">{{.buttonText}}</a>
+		<div class="lg:w-1/3">
+			<img src="{{ .image }}" alt="" class="rounded-full">
 		</div>
+	</container>
 
-	</div>
-</div>
+	<form action="{{.buttonLink}}">
+		<button class="bg-transparent hover:bg-brand text text-brand font-semibold hover:text-brand-light py-2 px-4 border border-brand border-solid hover:border-transparent rounded raise">{{.buttonText}}</a>
+	</form>
+
+</section>

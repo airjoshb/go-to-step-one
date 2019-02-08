@@ -8,3 +8,7 @@ if (window.netlifyIdentity) {
     }
   });
 }
+
+jQuery(document).ready(function() {
+  jQuery("time.timeago").timeago();
+});
