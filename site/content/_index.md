@@ -33,9 +33,11 @@ products:
 about:
   heading: About Joshua
   text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+    Joshua has a twenty year relationship with technology, helping over a dozen
+    founders get from idea to launch and for some, from launch to thriving
+    company. In 2012, he got sent on a different journey as a health crisis put
+    him in the position of fighting for his life for six years. In 2018, having
+    hacked is autoimmune disease, emerged an athlete, riding over 2000 miles on
+    a single speed bike and finishing his first triathlon.
 ---
 
