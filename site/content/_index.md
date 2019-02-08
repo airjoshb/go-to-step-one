@@ -33,11 +33,18 @@ products:
 about:
   heading: About Joshua
   text: >-
-    Joshua has a twenty year relationship with technology, helping over a dozen
-    founders get from idea to launch and for some, from launch to thriving
-    company. In 2012, he got sent on a different journey as a health crisis put
-    him in the position of fighting for his life for six years. In 2018, having
-    hacked is autoimmune disease, emerged an athlete, riding over 2000 miles on
-    a single speed bike and finishing his first triathlon.
+    Joshua has spent the better part of twenty years helping founders get from
+    idea to launch and from launch to thriving company. He was the president of
+    an e-commerce platform and helped start an eco-friendly plastic company,
+    whose materials are used today in nearly every product in the yoga and shoe
+    industry. 
+
+
+    In 2012, Joshua got sent on a different kind of journey, as a health crisis
+    had him fighting for his life for six years. In 2018, having spent years
+    researching genetics, the microbiome, mitochondrial health, fasting and
+    ketosis, he succeed in hacking his autoimmune disease and emerged an
+    athlete, riding over 2000 miles on a single speed bike and finishing his
+    first triathlon.
 ---
 
