@@ -32,6 +32,7 @@ products:
       fall in love with in our shop.
 about:
   heading: About Joshua
+  image: /img/medium_joshua-bradley-june-17.jpg
   text: >-
     Joshua has spent the better part of twenty years helping founders get from
     idea to launch and from launch to thriving company. He was the president of
