@@ -31,9 +31,7 @@ products:
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
 about:
-  heading: About Joshua
-  image: /img/medium_joshua-bradley-june-17.jpg
-  text: >-
+  body: >-
     Joshua has spent the better part of twenty years helping founders get from
     idea to launch and from launch to thriving company. He was the president of
     an e-commerce platform and helped start an eco-friendly plastic company,
@@ -47,5 +45,7 @@ about:
     ketosis, he succeed in hacking his autoimmune disease and emerged an
     athlete, riding over 2000 miles on a single speed bike and finishing his
     first triathlon.
+  heading: About Joshua
+  image: /img/medium_joshua-bradley-june-17.jpg
 ---
 
