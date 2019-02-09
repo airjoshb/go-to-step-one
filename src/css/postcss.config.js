@@ -10,19 +10,19 @@ module.exports = {
       path: ["src/css"],
     }), 
     require('tailwindcss')('./src/css/tailwind.js'),
+    require('cssnano') ({
+      preset: 'default',
+    }),
     require('@fullhuman/postcss-purgecss')({
-      content: ['layouts/**/*.html'],
+      content: ['./layouts/**/*.html'],
       extractors: [
       {
         extractor: TailwindExtractor,
-        extensions: ['html']
+        extensions: ['css','html']
       }], 
       fontFace: true,
       whitelist: ['class1', 'class2']
     }),    
-    require('autoprefixer')({
-      grid: true,
-      browsers: ['>1%']
-    }),    
+    require('postcss-cssnext')({ browsers: ['last 2 versions'] }),    
   ]
 }

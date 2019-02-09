@@ -21,3 +21,40 @@ nav div:hover::before {
     background-color: config("colors.grey-light");}
 nav a, nav a:hover {box-shadow: none;}
 .update p {margin-bottom: 0;}
+@screen sm {}
+
+@media screen and (max-width: 768px) {
+   .main {
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+    }
+    .image-header {height: 110%;}
+
+    header .logo {
+        @apply .h-24;
+        @apply .w-24;
+        margin: 2rem auto;
+    }
+    header .logo svg {fill: config("colors.grey-lightest");}
+
+    .header-content h1 {
+        @apply .text-3xl;
+        @apply .text-center;
+    }
+    .header-content p {
+        @apply .font-semibold;
+        @apply .text-sm
+    }
+    .header-content {
+        @apply .flex-col;
+    }
+    .header-content div {border-right: transparent;}
+    .title {
+        @apply .w-full;
+    }
+    .home-nav {
+        @apply .w-full;
+    }
+  }
+  

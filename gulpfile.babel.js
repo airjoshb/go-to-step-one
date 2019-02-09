@@ -41,20 +41,20 @@ gulp.task("css", () => (
   gulp.src("./src/css/*.css")
     .pipe(postcss([
       cssImport(tailwindcss(tailwindConfig)),
-      cssnext(),
+      cssnext({ browsers: ['last 2 versions'] }),
       cssnano(),
     ]))
-    .pipe(
-      purgecss({
-        content: ["**/*.html"],
-        extractors: [
-          {
-            extractor: TailwindExtractor,
-            extensions: ["html"]
-          }
-        ]
-      })
-    )
+    // .pipe(
+    //   purgecss({
+    //     content: ["**/*.html"],
+    //     extractors: [
+    //       {
+    //         extractor: TailwindExtractor,
+    //         extensions: ["css","html"]
+    //       }
+    //     ]
+    //   })
+    // )
     .pipe(gulp.dest("./dist/css"))
     .pipe(browserSync.stream())
 ));

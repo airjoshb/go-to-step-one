@@ -1,9 +1,9 @@
+  
 /* Base - Variables: tailwind-config.js */
 @import "tailwindcss/preflight";
 @import "tailwindcss/components";
 /* Site Specific */
 @import "tailwindcss/utilities";
-@import "brand";
 /*! TACHYONS v4.5.5 | http://tachyons.io */
 
 /*
@@ -84,8 +84,8 @@
 @import './imports/_colors';
 @import './imports/_media-queries';
 @import './imports/_variables';
+@import './brand';
 @font-face {
     font-family: CT;
-    src: url('https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,700,700i');
+    src: url('https://fonts.googleapis.com/css?family=Crimson+Text');
 }
-
