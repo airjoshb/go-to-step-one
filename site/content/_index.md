@@ -38,7 +38,7 @@ about:
     idea to launch and from launch to thriving company. He was the president of
     an e-commerce platform and helped start an eco-friendly plastic company,
     whose materials are used today in nearly every product in the yoga and shoe
-    industry. 
+    industry.
 
 
     In 2012, Joshua got sent on a different kind of journey, as a health crisis
