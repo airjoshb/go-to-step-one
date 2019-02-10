@@ -42,10 +42,9 @@ about:
 
 
     In 2012, Joshua got sent on a different kind of journey, as a health crisis
-    had him fighting for his life for six years. In 2018, having spent years
-    researching genetics, the microbiome, mitochondrial health, fasting and
-    ketosis, he succeed in hacking his autoimmune disease and emerged an
-    athlete, riding over 2000 miles on a single speed bike and finishing his
-    first triathlon.
+    had him fighting for his life for six years. Having spent years researching
+    genetics, the microbiome, mitochondrial health, fasting and ketosis, in 2018
+    he succeed in hacking his autoimmune disease and emerged an athlete, riding
+    over 2000 miles on a single speed bike and finishing his first triathlon.
 ---
 
