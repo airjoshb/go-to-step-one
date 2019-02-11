@@ -36,15 +36,15 @@ about:
   text: >-
     Joshua has spent the better part of twenty years helping founders get from
     idea to launch and from launch to thriving company. He was the president of
-    an e-commerce platform and helped start an eco-friendly plastic company,
-    whose materials are used today in nearly every product in the yoga and shoe
-    industry.
+    an e-commerce platform and helped start an eco-friendly plastic company
+    whose materials are used today across the yoga and shoe industry.
 
 
-    In 2012, Joshua got sent on a different kind of journey, as a health crisis
-    had him fighting for his life for six years. Having spent years researching
-    genetics, the microbiome, mitochondrial health, fasting and ketosis, in 2018
-    he succeed in hacking his autoimmune disease and emerged an athlete, riding
-    over 2000 miles on a single speed bike and finishing his first triathlon.
+    In 2012, Joshua was sent on a different kind of journey—a health crisis that
+    had him fighting for his life. With the standard of care not working, he
+    dove deep into researching genetics, the microbiome, mitochondrial health,
+    fasting and ketosis. In 2018 Joshua succeed in hacking his autoimmune
+    disease and emerged an athlete, riding over 2000 miles on a single speed
+    bike and competing in two triathlons.
 ---
 
