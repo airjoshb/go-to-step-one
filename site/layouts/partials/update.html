@@ -1,10 +1,11 @@
 <div class="bg-grey-light py-4 flex flex-col h-auto justify-center items-center flex-wrap" id="now">
     {{ range first 8 (where .Data.Pages "Type" "update") }}
-    <div class="flex flex-row flex-no-shrink w-3/4 justify-center items-center">
+    <div class="flex flex-row flex-no-shrink w-3/4 justify-center  mb-2 items-center">
         <time class="text-xs italic mr-4">{{ .Date.Format "Monday ... 1pm" }}</time>
-        <div class="bg-grey-lightest rounded-lg p-4 w-1/2 update text-sm text-brand">
-          {{ .Content }}   
-          {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}        
+        <div class="bg-grey-lightest rounded-lg p-4 w-3/4 update text-sm text-brand inline">
+            {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="w-24 float-right inline" />{{ end }}        
+
+            {{ .Content }}   
         </div>
     </div>
     {{ end }}
