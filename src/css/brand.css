@@ -56,5 +56,12 @@ nav a, nav a:hover {box-shadow: none;}
     .home-nav {
         @apply .w-full;
     }
+    .update { 
+        @apply .flex-col; 
+        @apply .w-full; 
+    }
+    .update div { width: 90%; }
+    .text-image container .text { @apply .w-full;}
+    .text-image container { @apply .flex-col; }
   }
   
