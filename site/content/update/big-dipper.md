@@ -1,5 +1,5 @@
 ---
-title: Big DIpper
+title: Big Dipper
 date: 2019-02-13T17:48:09.375Z
 image: /img/img_20190212_115417487_hdr.jpg
 ---
