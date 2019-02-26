@@ -1,15 +1,36 @@
 {{ define "main" }}
+  {{ partial "nav"}}
+  <div class="w-3/4 m-auto overflow-hidden bg-white shadow-lg px-5 pt-8 pb-4">
+    <div class="mb-8 flex justify-between items-end">
+      <h1 class="font-serif text-brand text-5xl">{{.Title}}</h1>
 
-  <div class="mw6 center ph3 pv4">
-    <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
-    <div class="flex justify-between grey-3">
-      <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
-      <p>Read in {{ .ReadingTime }} minutes</p>
+      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="w-3/5" />{{ end }}
     </div>
-    <div class="cms mw6">
-      <p>{{ .Description }}</p>
-      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
-      {{ .Content }}
+    <div class="flex flex-row">
+      <div class="text-brand w-1/4 mr-1 text-xs  font-serif">
+        {{ .Date.Format "Monday, January 2, 2006" }}
+        </br>
+        Read in {{ .ReadingTime }} minutes
+        <div class="">
+          Share on
+          <a href="//twitter.com/share?url={{ .Permalink }}&amp;text=I%20just%20saw%20this&amp;via=airjoshb" target="_blank" class="inline-block shadow-none align-middle">
+            <svg width="16px" height="16px" class="db fill-brand inline">
+              <use xlink:href="#icons-twitter"></use>
+            </svg>
+          </a>
+        </div>
+        <div class="text-right mt-2 border-t-4 pt-2 border-solid border-brand">      
+          <svg class="h-4" height="20" width="20">
+            <circle cx="10" cy="10" r="8" stroke="transparent" fill="brand"></circle>
+          </svg>
+        </div>
+      </div>
+      <div class="w-3/4 text-sm border-l-thick border-solid border-brand pl-4">
+        {{ .Content }}
+        <svg class="h-4 float-right text-brand" height="20" width="20">
+          <circle cx="10" cy="10" r="8" stroke="transparent" fill="brand"></circle>
+        </svg>
+      </div>
     </div>
   </div>
 {{ end }}

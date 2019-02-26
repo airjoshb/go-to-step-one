@@ -14,11 +14,13 @@ nav div:hover::before {
     content: "";
     position: absolute;
     left: 0;
-    top: 3px;
+    top: 50%;
+    transform: translateY(-50%);
     width: 20px;
     height: 20px;
     border-radius: 50%;
     background-color: config("colors.grey-light");}
+nav#main div:hover::before {background-color: config("colors.brand");}
 nav a, nav a:hover {box-shadow: none;}
 .update p {margin-bottom: 0;}
 @screen sm {}
