@@ -37,17 +37,8 @@
 	{{ end }}
 	<!-- End of Open Graph -->
 	<!-- Start of Twitter -->
-
-	<meta property="twitter:card" content="{{ .Title }}">
-	{{ if .Params.description }}
-	<meta property="twitter:description" content="{{ .Description }}">
-	{{ else }}
-	<meta property="twitter:description" content="{{ .Content | truncate 300 }}">
-	{{ end }}
-	<meta property="twitter:title" content="{{ .Title }}">
-	{{ if .Params.image }}
-	<meta property="twitter:image" content="{{ .Site.BaseURL }}{{ .Params.image }}">
-	{{ end }}
+	<meta property="twitter:card" content="summary">
+	<meta property="twitter:creator" content="@airjoshb">
 	<!-- End of Twitter -->
 	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 	
