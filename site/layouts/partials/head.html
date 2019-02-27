@@ -42,7 +42,7 @@
 	{{ if .Params.description }}
 	<meta property="twitter:description" content="{{ .Description }}">
 	{{ else }}
-	<meta property="twitter:descriptionn" content="{{ .Content | truncate 300 }}">
+	<meta property="twitter:description" content="{{ .Content | truncate 300 }}">
 	{{ end }}
 	<meta property="twitter:title" content="{{ .Title }}">
 	{{ if .Params.image }}
