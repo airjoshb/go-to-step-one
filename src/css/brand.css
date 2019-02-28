@@ -8,8 +8,9 @@ header .flex * { z-index: 50;}
 header a { text-transform: uppercase; font-weight: 700;}
 .fill-brand {fill: config("colors.brand");}
 .fill-white {fill: config("colors.grey-lightest");}
-a {text-decoration: none; box-shadow: inset 0 -1px 0 config("colors.brand-light");}
-a:hover {color: config("colors.brand-light"); box-shadow: inset 0 -1px 0 config("colors.brand-light")}
+p { @apply .break-words;}
+a {text-decoration: none; box-shadow: inset 0 -1px 0 config("colors.green-brand");}
+a:hover {color: config("colors.green-brand"); box-shadow: inset 0 -1px 0 config("colors.green-brand")}
 nav div:hover::before {
     content: "";
     position: absolute;
@@ -65,5 +66,12 @@ nav a, nav a:hover {box-shadow: none;}
     .update div { width: 90%; }
     .text-image container .text { @apply .w-full;}
     .text-image container { @apply .flex-col; }
+    nav {display: none;}
+    #update { @apply .flex-col-reverse;}
+    #content {@apply .flex-col;}
+    #colophon, #body { @apply .w-full;}
+    #post { @apply .w-5/6;}
+    #post h1 { @apply .text-2xl;}
+    #sidebar-nav { @apply p-0; @apply .m-auto; }
   }
   
