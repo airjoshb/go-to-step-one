@@ -9,7 +9,6 @@ header a { text-transform: uppercase; font-weight: 700;}
 .fill-brand {fill: config("colors.brand");}
 .fill-white {fill: config("colors.grey-lightest");}
 p { @apply .break-words;}
-p img {float: right; @apply .pl-1;}
 a {text-decoration: none; box-shadow: inset 0 -1px 0 config("colors.green-brand");}
 a:hover {color: config("colors.green-brand"); box-shadow: inset 0 -1px 0 config("colors.green-brand")}
 nav div:hover::before {
