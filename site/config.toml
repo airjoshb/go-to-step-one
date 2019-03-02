@@ -1,3 +1,7 @@
 baseurl = "https://www.gotostepone.com/"
 languageCode = "en-us"
 title = "Step One"
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+
+[author]
+    name = "Joshua Bradley"

@@ -1,23 +1,17 @@
 <head>
-
 	<title>{{ .Title }} | Joshua Bradley</title>
 	<link rel="stylesheet" href="/css/main.css" />
-
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-
 	<link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700" rel="stylesheet">
 	<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Ubuntu:400,400i,700&subset=latin'>
-	<!-- Favicons -->
 	<link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
 	<link rel="icon" type="image/png" href="/img/favicon-32x32.png" sizes="32x32">
 	<link rel="icon" type="image/png" href="/img/favicon-16x16.png" sizes="16x16">
 	<link rel="manifest" href="/manifest.json">
 	<link rel="mask-icon" href="/img/safari-pinned-tab.svg" color="#ff4400">
 	<meta name="theme-color" content="#fff">
-
-	<!-- Start of Open Graph -->
 	<meta property="og:title" content="{{ .Title }}">
 	{{ if .IsPage }}
 	<meta property="og:type" content="article">
@@ -35,21 +29,17 @@
 	{{ if .Params.image }}
 	<meta property="og:image" content="{{ .Site.BaseURL }}{{ .Params.image }}">
 	{{ end }}
-	<!-- End of Open Graph -->
-	<!-- Start of Twitter -->
+	{{ range .AlternativeOutputFormats -}}
+		{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+	{{ end -}}
 	<meta property="twitter:card" content="summary">
 	<meta property="twitter:creator" content="@airjoshb">
-	<!-- End of Twitter -->
 	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-	
-	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-41484403-1"></script>
 	<script>
 	window.dataLayer = window.dataLayer || [];
 	function gtag(){dataLayer.push(arguments);}
 	gtag('js', new Date());
-
 	gtag('config', 'UA-41484403-1');
 	</script>
-
 </head>
