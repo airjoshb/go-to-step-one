@@ -5,3 +5,10 @@ copyright = "This work is licensed under a Creative Commons Attribution-ShareAli
 
 [author]
     name = "Joshua Bradley"
+    email = "josh@gotostepone.com"
+    twitter = "@airjoshb"
+
+[sitemap]
+  changefreq = "daily"
+  filename = "sitemap.xml"
+  priority = 0.5
