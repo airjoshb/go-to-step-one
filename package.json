@@ -13,7 +13,7 @@
     "lint": "eslint src",
     "build:css": "postcss src/css/main.css -o static/dist/main.css"
   },
-  "author": "",
+  "author": "Joshua Bradley",
   "license": "MIT",
   "dependencies": {
     "@babel/core": "^7.2.2",
