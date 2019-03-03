@@ -24,6 +24,7 @@ nav div:hover::before {
 nav#main div:hover::before {background-color: config("colors.brand");}
 nav a, nav a:hover {box-shadow: none;}
 .update p {margin-bottom: 0;}
+.update p img {@apply .w-1/2; @apply .ml-2; @apply .mb-2; @apply .float-right; @apply .inline;}
 @screen sm {}
 
 @media screen and (max-width: 768px) {
