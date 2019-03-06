@@ -1,6 +1,8 @@
-<div class="bg-grey-1 pv4">
-  <div class="flex-l mhn1-l ph3 center mw7">
-    <h2 class="f2 b lh-title mb2 w-40-l">{{.heading}}</h2>
-    <p class="w-60-l mb0">{{.text}}</p>
+<div class="flex flex-wrap">
+  <div class="mb-6">
+  <span class="text-sm font-bold text-grey uppercase">{{ .date.Format "February 2006" }}</span>  
+  <a href="{{ .Permalink }}" class="shadow-none font-serif text-3xl capitalize text-brand block">{{.heading}}</a>
+  <p class="font-serif text-lg italic text-brand">{{.text}}</p>
   </div>
 </div>
+

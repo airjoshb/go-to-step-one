@@ -1,17 +1,12 @@
-<section class="py-6 px-6 lg:px-20 text-image">
-	<container class="flex">
-		<div class="w-2/3 text">
-			<h2 class="font-bold text-xl text-brand">{{.heading}}</h2>
-			{{.text}}
+<section class="p-2 text-image">
+	<container class="flex items-center justify-center">
+		<div>
+			<img src="{{ .image }}" alt="" class="{{ .imageclass }}">
 		</div>
-
-		<div class="m-4">
-			<img src="{{ .image }}" alt="" class="rounded-full">
+		<div class="text w-1/2 flex-grow flex-no-shrink ml-4">
+			<h2 class="{{ .headingclass }}">{{.heading}}</h2>
+			<p class="{{ .textclass }}">{{.text}}</p>
 		</div>
 	</container>
-
-	<!-- <form action="{{.buttonLink}}">
-		<button class="bg-transparent hover:bg-brand text text-brand font-semibold hover:text-brand-light py-2 px-4 border border-brand border-solid hover:border-transparent rounded raise">{{.buttonText}}</a>
-	</form> -->
 
 </section>

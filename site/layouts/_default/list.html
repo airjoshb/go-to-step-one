@@ -1,16 +1,27 @@
 {{ define "main" }}
-
-{{ partial "jumbotron" (dict "imageUrl" "/img/blog-index.jpg" "title" "Latest stories") }}
-
-<div class="mw7 center">
-  <ul class="flex-ns flex-wrap mhn1-ns pa3">
-      {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
-          <div class="w-50-ns ph1-ns flex">
+<div class="flex justify-end">
+  <div class="p-4">
+    <div class="mb-16">
+      {{ range first 1 .Pages.ByPublishDate.Reverse }}  
+        <a href="{{ .Permalink }}" class="shadow-none hover:shadow-none">
+          {{ partial "text-and-image" (dict "heading" .Title "text" .Description "image" .Params.Image "imageclass" "shadow-lg hover:shadow-none border-r-8  border-solid border-green-brand" "textclass" "leading-tight mt-1 font-serif text-lg italic" "headingclass" "font-bold leading-none text-5xl font-serif text-brand capitalize") }}
+        </a>
+      {{ end }}
+    </div>
+    <div id="list" class="flex flex-row flex-wrap">
+      {{ range first 9 (after 1  .Pages.ByPublishDate.Reverse) }}
+          <div class="p-2" id="list-item">
             {{ .Render "li"}}
           </div>
       {{ end }}
-  </ul>
-  {{ partial "pagination" . }}
+    </div>
+    <div class="lg:w-2/3 sm:w-full m-auto text-left flex flex-col">
+      {{ if gt (.Pages.ByPublishDate.Reverse | len)  8 }}<h3 class="text-3xl text-brand font-bold border-b-8 border-solid border-green-brand">More</h3><svg class="h-5 green-brand self-end mb-3" height="20" width="20"><circle cx="10" cy="10" r="8" stroke="transparent" fill="brand"></circle></svg>{{ end }}
+      {{ range after 9 .Pages.ByPublishDate.Reverse }}
+        {{ partial "short-text" (dict "heading" .Title "heading" .Description "date" .Date) }}
+      {{ end }}
+    </div>
+  </div>
+  {{ partial "nav"}}
 </div>
-
 {{end}}

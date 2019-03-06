@@ -1,3 +1,26 @@
+body {
+    background-color: #fff;
+    color: #333;
+    font-size: 62.5%;
+    @apply .font-sans;
+    font-style: normal;
+    font-weight: 400;
+    font-display: fallback;
+    -webkit-font-smoothing: antialiased;
+}
+#post #body p, #body ul, #post #body ol { margin-bottom: 1.5em; @apply .font-serif; }
+#post h1 {font-size: 3.3rem;}
+#blog #post #body>p:first-of-type:first-letter {
+    float: left;
+    font-size: 107px;
+    padding-top: 0px;
+    padding-right: 7px;
+    line-height: 77px;
+    -webkit-font-smoothing: subpixel-antialiased;
+    font-style: normal;
+    font-weight: bold;
+    @apply .font-sans;
+}
 header img {  
     -webkit-transform: translate(-10%, -10%);
     transform: translate(-10%, -10%);
@@ -5,12 +28,13 @@ header img {
     max-width: 120%;
 }
 header .flex * { z-index: 50;}
-header a { text-transform: uppercase; font-weight: 700;}
+header a { font-weight: 700; @apply .text-grey-lightest; box-shadow: inset 0 -1px 0 config("colors.green-brand"); }
 .fill-brand {fill: config("colors.brand");}
 .fill-white {fill: config("colors.grey-lightest");}
 p { @apply .break-words;}
-a {text-decoration: none; box-shadow: inset 0 -1px 0 config("colors.green-brand");}
-a:hover {color: config("colors.green-brand"); box-shadow: inset 0 -1px 0 config("colors.green-brand")}
+a {text-decoration: none; box-shadow: inset 0 -1px 0 config("colors.green-brand"); color: inherit;}
+a:hover {color: config("colors.green-brand"); box-shadow: inset 0 -1px 0 config("colors.green-brand");}
+.hover-shadow {box-shadow: inset 0 -1px 0 config("colors.green-brand");}
 nav div:hover::before {
     content: "";
     position: absolute;
@@ -23,8 +47,29 @@ nav div:hover::before {
     background-color: config("colors.grey-light");}
 nav#main div:hover::before {background-color: config("colors.brand");}
 nav a, nav a:hover {box-shadow: none;}
-.update p {margin-bottom: 0;}
 .update p img {@apply .w-1/2; @apply .ml-2; @apply .mb-2; @apply .float-right; @apply .inline;}
+#body p img {@apply .w-2/5; @apply .pl-2; @apply .pb-2; @apply .float-right; @apply .inline; @apply .m-0;}
+
+#list img {
+    @apply .relative;
+    @apply .h-auto;
+    @apply .w-auto;
+    @apply .min-w-full;
+    @apply .min-h-full;
+    max-width: 200%;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+#list .title {
+    -webkit-writing-mode: vertical-rl;
+    -ms-writing-mode: tb-rl;
+    writing-mode: vertical-rl;
+}
+#list .title-sans-image {word-break: break-word; font-size: 1.89rem;}
+#list-item {flex-basis: 33%;}
+svg.green-brand {fill: config("colors.green-brand");}
 @screen sm {}
 
 @media screen and (max-width: 768px) {

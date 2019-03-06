@@ -1,20 +1,28 @@
-<div id="sidebar-nav" class="w-1/6 p-4 text-right flex flex-col">
+<div id="sidebar-nav" class="w-1/6 p-4 text-right flex flex-col flex-no-shrink">
     <div class="logo">
         <a href="/" class="shadow-none hover:shadow-none">
-            {{ partial "logo" (dict "class" "fill-brand h-24 w-24")  }}
+            {{ partial "logo" (dict "class" "fill-brand h-32 w-32")  }}
         </a>
     </div>
-    <nav id="main" class="w-full text-right text-sm">
-        <div class="border-t-4 border-solid border-brand text-brand-green relative">
-                <a href="#" class="cursor-not-allowed">Posts</a>
+    <nav id="main" class="w-full text-right text-lg">
+        <div class="border-t-4 border-solid border-brand text-brand-green relative py-1">
+                <a href="#" class="cursor-not-allowed font-black">Posts</a>
         </div>
 
-        <div class="border-t-4 border-solid border-brand text-brand-green relative">
-                <a href="#" class="cursor-not-allowed">Essays</a>
+        <div class="border-t-4 border-solid border-brand text-brand-green relative py-1">
+                <a href="#" class="cursor-not-allowed font-black">Essays</a>
         </div>
 
-        <div class="border-t-4 border-solid border-brand text-brand-green relative">
-                <a href="#about">About Joshua</a>
+        <div class="border-t-4 border-solid border-brand text-brand-green relative py-1">
+                <a href="#about" class="font-black font-black">About Joshua</a>
         </div>
+        <li class="inline-block mt-4">
+            <a href="https://twitter.com/airjoshb" class="link relative">
+              <svg width="20px" height="20px" class="fill-brand hover:shadow-md">
+                <use xlink:href="#icons-twitter"></use>
+              </svg>
+            </a>
+        </li>
     </nav>
+
 </div>
