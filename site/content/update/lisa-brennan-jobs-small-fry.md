@@ -1,5 +1,5 @@
 ---
-title: Lisa Brennan-Job's
+title: Lisa Brennan-Job's Small Fry
 date: 2019-03-10T16:17:58.000-0700
 description: 
 image: /img/lisa-brennan-jobs-small-fry.jpg
