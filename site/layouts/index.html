@@ -2,7 +2,7 @@
 
 <header class="main w-full h-screen relative overflow-hidden py-3 px-5 border-b-thick border-solid border-green-brand">
     <img class="absolute l-0 t-0 h-auto image-header" src={{ .Params.image }} />
-    <div class="flex justify-end logo">
+    <div class="flex justify-end logo pt-12">
      {{ partial "logo" (dict "class" "fill-brand h-64 w-64")  }}
     </div>
     <div class="flex justify-end header-content">
@@ -23,7 +23,7 @@
                 <a href="#now" class="font-black">Now</a>
             </div>
             <div class="border-t-4 border-solid border-grey-lightest text-right text-brand-light relative py-1">
-                    <a href="#" class="cursor-not-allowed font-black">Posts</a>
+                    <a href="/post" class="font-black">Posts</a>
             </div>
         
             <div class="border-t-4 border-solid border-grey-lightest text-right text-brand-light relative py-1">

@@ -27,6 +27,7 @@ header img {
     z-index: 0;
     max-width: 120%;
 }
+.h-64i {@apply .h-64 !important;}
 header .flex * { z-index: 50;}
 header a { font-weight: 700; @apply .text-grey-lightest; box-shadow: inset 0 -1px 0 config("colors.green-brand"); }
 .fill-brand {fill: config("colors.brand");}
@@ -81,8 +82,8 @@ svg.green-brand {fill: config("colors.green-brand");}
     .image-header {height: 110%;}
 
     header .logo {
-        @apply .h-24;
-        @apply .w-24;
+        @apply .h-32;
+        @apply .w-32;
         margin: 2rem auto;
     }
     header .logo svg {fill: config("colors.grey-lightest");}
@@ -93,7 +94,8 @@ svg.green-brand {fill: config("colors.green-brand");}
     }
     .header-content p {
         @apply .font-semibold;
-        @apply .text-sm
+        @apply .text-lg;
+        @apply .text-center;
     }
     .header-content {
         @apply .flex-col;
@@ -111,13 +113,18 @@ svg.green-brand {fill: config("colors.green-brand");}
     }
     .update div { width: 90%; }
     .text-image container .text { @apply .w-full;}
-    .text-image container { @apply .flex-col; }
+    .text-image container { @apply .flex-wrap; }
     nav {display: none;}
-    #update { @apply .flex-col-reverse;}
+    #update, #blog, #list  { @apply .flex-col-reverse;}
     #content {@apply .flex-col;}
     #colophon, #body { @apply .w-full;}
+    #body {@apply border-l-0; }
     #post { @apply .w-5/6;}
-    #post h1 { @apply .text-2xl;}
-    #sidebar-nav { @apply p-0; @apply .m-auto; }
+    #post h1 { @apply .text-4xl;}
+    #sidebar-nav { @apply py-2; @apply .m-auto; @apply .w-32; @apply px-0;}
+    #sidebar-nav .logo { @apply .h-32; @apply .w-32;}
+    #post > div {@apply .flex-wrap}
+    #post > div img {@apply .flex-wrap; @apply .w-full;}
+    #post > div h1 {@apply pt-4; @apply ml-0;}
   }
   
