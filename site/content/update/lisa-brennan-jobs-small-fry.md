@@ -1,7 +1,6 @@
 ---
 title: Lisa Brennan-Job's Small Fry
-date: 2019-03-10T16:17:58.000-0700
-description: 
+date: 2019-03-10T23:17:58.000Z
 image: /img/lisa-brennan-jobs-small-fry.jpg
 ---
 I have never been a fan of memoirs. Personal accounts often feel overly edited in the way an Instagram photo has an embellished reality to it—reading what the author wants us to know of their life. Even when it feels raw, difficult or painful it rarely comes through as intimate. 
