@@ -124,7 +124,7 @@ svg.green-brand {fill: config("colors.green-brand");}
     #sidebar-nav { @apply py-2; @apply .m-auto; @apply .w-32; @apply px-0;}
     #sidebar-nav .logo { @apply .h-32; @apply .w-32;}
     #post > div {@apply .flex-wrap}
-    #post > div img {@apply .flex-wrap; @apply .w-full;}
+    #post > div img {@apply .flex-wrap; @apply .w-full; @apply .border-r-0; @apply .border-b-8;}
     #post > div h1 {@apply pt-4; @apply ml-0;}
   }
   
