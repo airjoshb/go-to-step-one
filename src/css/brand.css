@@ -8,7 +8,7 @@ body {
     font-display: fallback;
     -webkit-font-smoothing: antialiased;
 }
-#post #body p, #body ul, #post #body ol { margin-bottom: 1.5em; @apply .font-serif; }
+#post #body p, #update p, #body ul, #post #body ol { margin-bottom: 1.5em; @apply .font-serif; }
 #post h1 {font-size: 3.3rem;}
 #blog #post #body>p:first-of-type:first-letter {
     float: left;
