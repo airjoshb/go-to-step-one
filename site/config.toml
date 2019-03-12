@@ -12,3 +12,8 @@ copyright = "This work is licensed under a Creative Commons Attribution-ShareAli
   changefreq = "daily"
   filename = "sitemap.xml"
   priority = 0.5
+
+[taxonomies]
+  category = "categories"
+  series = "essays"
+  tag = "tags"

@@ -10,7 +10,7 @@
     </div>
     <div id="list" class="flex flex-row flex-wrap">
       {{ range first 9 (after 1  .Pages.ByPublishDate.Reverse) }}
-          <div class="p-2" id="list-item mb-8">
+          <div class="p-2 mb-8" id="list-item">
             {{ .Render "li"}}
           </div>
       {{ end }}
