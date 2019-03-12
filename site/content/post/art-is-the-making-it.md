@@ -4,6 +4,8 @@ date: 2018-02-07T01:02:21.327Z
 description: >-
   What I learned walking around Stanford that my professors tried to teach me at the School of Museum of Fine Arts, Boston twenty years ago.
 image: /img/art-is-the-making-of-it.jpg
+categories: 'creating'
+tags: 'art'
 ---
 
 At twenty-one (and already a college dropout) I had talked my way into one of the most exclusive art schools in Boston—The School of Museum of Fine Arts—with only a couple of sketchbooks I had filled while traveling across the country by train. My final acceptance into the school depended on the success of a show I would put together at the end of the semester, judged by a group of peers and faculty. The semester-end exhibition is how “grades” work at SMFA and was one of the many things that drew me so passionately there. Everything dripped of art — the walls and surfaces were coated with student art—layered and expanded on over the years.

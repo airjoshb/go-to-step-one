@@ -1,5 +1,5 @@
 ---
-title: A Single Data Point Failure
+title: A Single Data Point of Failure
 description: >-
   Two years ago I was put on Remicade, a TNFa immune blocker, to control my
   Crohn’s disease, until insurance decided to save a few bucks.
@@ -8,9 +8,7 @@ categories: 'health'
 tags: 'autoimmune disease'
 ---
 
-![](https://www.gotostepone.com/img/autoimmune-disease.jpg)
-
-Photo by [Kendal James](https://unsplash.com/photos/L4iKccAChOc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+{{< figure src="/img/autoimmune-disease.jpg" title="A Single Point of Failure" attr="Kendal James on Unsplash" attrlink="https://unsplash.com/photos/L4iKccAChOc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" >}}
 
 Over two years ago I was put on Remicade (infliximab), a TNFa immune blocker, to control my Crohn’s disease. Two of the main biomarkers they use to measure inflammation with IBD is C-reactive protein (CRP), a protein released by the liver as a response to inflammation, and erythrocyte sedimentation rate (ESR) which is the rate at which red blood cells sediment in a period of one hour. My CRP has been measured over 100x normal levels and ESR at 6x normal levels, making inflammation my superpower, or perhaps, more accurately, a response to some unknown kryptonite.
 

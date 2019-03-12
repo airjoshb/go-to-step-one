@@ -8,7 +8,9 @@ body {
     font-display: fallback;
     -webkit-font-smoothing: antialiased;
 }
-#post #body p, #update p, #body ul, #post #body ol { margin-bottom: 1.5em; @apply .font-serif; }
+figcaption { @apply .text-xs; @apply .font-serif; @apply .justify-end; @apply .flex; @apply .italic; }
+figcaption h4 {@apply .mr-2;}
+#post #body p, #update p, #body ul, #post #body ol, .update p { @apply .mb-3; @apply .font-serif; }
 #post h1 {font-size: 3.3rem;}
 #blog #post #body>p:first-of-type:first-letter {
     float: left;
@@ -36,21 +38,25 @@ p { @apply .break-words;}
 a {text-decoration: none; box-shadow: inset 0 -1px 0 config("colors.green-brand"); color: inherit;}
 a:hover {color: config("colors.green-brand"); box-shadow: inset 0 -1px 0 config("colors.green-brand");}
 .hover-shadow {box-shadow: inset 0 -1px 0 config("colors.green-brand");}
-nav div:hover::before {
+nav div.nav-link:hover::before {
     content: "";
     position: absolute;
     left: 0;
-    top: 50%;
-    transform: translateY(-50%);
     width: 20px;
     height: 20px;
-    border-radius: 50%;
-    background-color: config("colors.grey-light");}
+    border-radius: 50%;}
+nav div.category:hover::before {
+    content: "";
+    position: absolute;
+    left: 2.5px;
+    width: 15px;
+    height: 15px;
+    padding-top: 2.5px;
+    border-radius: 50%;}
 nav#main div:hover::before {background-color: config("colors.brand");}
 nav a, nav a:hover {box-shadow: none;}
 .update p img {@apply .w-1/2; @apply .ml-2; @apply .mb-2; @apply .float-right; @apply .inline;}
 #body p img {@apply .w-2/5; @apply .pl-2; @apply .pb-2; @apply .float-right; @apply .inline; @apply .m-0;}
-
 #list img {
     @apply .relative;
     @apply .h-auto;

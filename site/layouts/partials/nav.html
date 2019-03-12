@@ -5,16 +5,29 @@
         </a>
     </div>
     <nav id="main" class="w-full text-right text-lg">
-        <div class="border-t-4 border-solid border-brand text-brand-green relative py-1">
-                <a href="/post" class="font-black">Posts</a>
+        <div class="border-t-4 border-solid border-brand relative py-1">
+            <div class="nav-link">    
+                <a href="/post" class="font-black text-brand">Posts</a>
+            </div>
+            {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+                {{ with $.Site.GetPage (printf "/categories/%s" $name) }}
+                <div class="category"><a href="{{ .RelPermalink }}" class="font-thin text-sm capitalize">{{ $name }}</a></div>
+                {{ end }}
+            {{ end }}
         </div>
 
-        <div class="border-t-4 border-solid border-brand text-brand-green relative py-1">
-                <a href="#" class="cursor-not-allowed font-black">Essays</a>
+        <div class="border-t-4 border-solid border-brand relative py-1">
+            <div class="nav-link">    
+                <a href="#" class="cursor-not-allowed text-brand font-black">Essays</a>
+        
+            </div>
         </div>
 
-        <div class="border-t-4 border-solid border-brand text-brand-green relative py-1">
-                <a href="#about" class="font-black font-black">About Joshua</a>
+        <div class="border-t-4 border-solid border-brand relative py-1">
+            <div class="nav-link">    
+                <a href="#about" class="font-black text-brand font-black">About Joshua</a>
+        
+            </div>
         </div>
         <li class="inline-block mt-4">
             <a href="https://twitter.com/airjoshb" class="link relative">

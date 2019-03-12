@@ -10,7 +10,7 @@
                     </svg>
                 </a>
                 ~  
-                <a href="{{ .Permalink }}" class=" shadow-none hover:shadow-none hover:text-green-brand">link</a>
+                <a href="{{ .RelPermalink }}" class=" shadow-none hover:shadow-none hover:text-green-brand">link</a>
             </div>
         <div class="bg-grey-lightest rounded-lg p-4 w-3/4 update text-lg leading-normal text-brand font-serif">
             {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="w-1/2 ml-2 mb-2 float-right inline" />{{ end }}        
