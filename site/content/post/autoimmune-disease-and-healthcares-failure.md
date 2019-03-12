@@ -8,7 +8,7 @@ categories: 'health'
 tags: 'autoimmune disease'
 ---
 
-![](http://localhost:3001/img/autoimmune-disease.jpg)
+![](https://www.gotostepone.com/img/autoimmune-disease.jpg)
 
 Photo by [Kendal James](https://unsplash.com/photos/L4iKccAChOc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
