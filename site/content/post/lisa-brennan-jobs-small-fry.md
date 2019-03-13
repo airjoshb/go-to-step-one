@@ -1,11 +1,11 @@
 ---
 title: Lisa Brennan-Job's Small Fry
-date: '2019-03-10T16:17:58.000-0700'
+date: 2019-03-10T23:17:58.000Z
 description: >-
-    This incredibly personal book about growing up, parenting and finding where and how you fit into the world and your family, is one of my favorite reads this year.
+  This incredibly personal book about growing up, parenting and finding where
+  and how you fit into the world and your family, is one of my favorite reads
+  this year.
 image: /img/lisa-brennan-jobs-small-fry.jpg
-categories: 'books'
-tags: ['reviews', 'memoirs']
 ---
 I have never been a fan of memoirs. Personal accounts often feel overly edited in the way an Instagram photo has an embellished reality to it—reading what the author wants us to know of their life. Even when it feels raw, difficult or painful it rarely comes through as intimate. 
 
