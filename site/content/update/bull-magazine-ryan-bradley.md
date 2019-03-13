@@ -1,6 +1,6 @@
 ---
 title: My Brother Takes the Bull
-date: 2019-03-12T17:02:58.000-0700
+date: '2019-03-12T17:02:58.000-0700'
 image: /img/bull-magazine-ryan-bradley.jpg
 ---
 
