@@ -1,6 +1,6 @@
 ---
 title: Halfway Through Fasting
-date: 2019-03-13T16:24:20.00-0700
+date: 2019-03-13T23:24:20.000Z
 image: /img/halfway-through-fasting.jpg
 ---
 For this year's 19 day Fast* I am using Zero along with Cronometer and my Coros Pace Watch to keep track of some metrics, specifically sleep, activity, food consumption and ketone levels (along with blood and microbiome). Here is how it has gone, so far:
