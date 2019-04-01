@@ -1,10 +1,13 @@
 ---
 title: High Speed in the Muscle Era
+date: 2013-12-16T23:38:00.000Z
+description: >-
+  Cinema in the late 1960’s and 70’s shifted focus as art gave way to grit,
+  finesse to muscle—salt-of-the-earth seasoned many films, echoing society’s
+  search for identity through the volatile 60’s. Story after story was released
+  of the urban cop grinding it out on the streets, or the screwball antics of
+  America’s good ol’ boys.
 image: img/muscle-car-chases.jpg
-date: 2013-16-12T13:52:35.000-0700
-description: Cinema in the late 1960’s and 70’s shifted focus as art gave way to grit, finesse to muscle—salt-of-the-earth seasoned many films, echoing society’s search for identity through the volatile 60’s. Story after story was released of the urban cop grinding it out on the streets, or the screwball antics of America’s good ol’ boys.
-categories: 'cinema'
-tags: ['reviews', 'cars', 'best of']
 ---
 Cinema in the late 1960s and '70s shifted focus as art gave way to grit, finesse to muscle—salt-of-the-earth seasoned many films, echoing society’s search for identity through the volatile ’60s. Story after story was released of the urban cop grinding it out on the streets, or the screwball antics of America’s good ol’ boys.
 
