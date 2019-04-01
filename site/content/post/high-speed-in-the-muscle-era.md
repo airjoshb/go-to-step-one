@@ -8,7 +8,10 @@ description: >-
   of the urban cop grinding it out on the streets, or the screwball antics of
   America’s good ol’ boys.
 image: img/muscle-car-chases.jpg
+categories: 'cinema'
+tags: ['reviews', 'cars', 'best of']
 ---
+
 Cinema in the late 1960s and '70s shifted focus as art gave way to grit, finesse to muscle—salt-of-the-earth seasoned many films, echoing society’s search for identity through the volatile ’60s. Story after story was released of the urban cop grinding it out on the streets, or the screwball antics of America’s good ol’ boys.
 
 Going for a “walk around the block” in my wing of the hospital, you could hear the sounds of the tiny television sets that hover on arms next to the beds. In one room, I heard a hospital drama ...while in the hospital. I’m not that guy, I need some vigor to recover, the kind of energy that can only be served up by cars that don’t get their juice from a power outlet and men who wore hats and threw down in turtlenecks. Tough guys like Steve McQueen and Gene Hackman and slick-talkers like Michael Caine and Burt Reynolds.
