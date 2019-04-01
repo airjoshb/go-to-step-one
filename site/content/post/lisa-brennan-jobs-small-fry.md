@@ -7,7 +7,7 @@ description: >-
   this year.
 image: /img/lisa-brennan-jobs-small-fry.jpg
 categories: 'books'
-tags: ['memoir', 'non-fiction']
+tags: ['memoir', 'non-fiction', 'reviews']
 ---
 I have never been a fan of memoirs. Personal accounts often feel overly edited in the way an Instagram photo has an embellished reality to it—reading what the author wants us to know of their life. Even when it feels raw, difficult or painful it rarely comes through as intimate. 
 
