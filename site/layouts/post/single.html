@@ -2,7 +2,7 @@
   <div class="flex" id="blog">
     <div class="w-3/4 m-auto overflow-hidden bg-white shadow-lg px-5 pt-8 pb-4" id="post">
       <div class="mb-8 flex items-end">
-        {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="w-3/5 border-r-8 border-solid border-green-brand" />{{ end }}
+        {{ if .Params.image }}<img src="{{ .Params.image }}?nf_resize=fit&w=1000" alt="{{ .Title }}" class="w-3/5 border-r-8 border-solid border-green-brand" />{{ end }}
         <div class="ml-3">
           <h1 class="font-serif text-brand leading-none mb-0 flex-shrink flex-no-grow">{{.Title}}</h1>
           <h2 class="font-serif text-brand text-lg italic font-hairline">{{ .Description }}</h2></div>
