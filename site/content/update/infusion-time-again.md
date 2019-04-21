@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:525b23fbaf49bc5bc29ca1196b01ce82fd25a800be6a353b90032172bd0d71e8
-size 377
+---
+title: Infusion Time Again
+date: 2019-03-27T18:53:13.000Z
+image: /img/inflectra-infusion-time.jpg
+---
+Infusion time again. Sitting in the chair, I know life will be hard for a week, but when you don't know what will happen if you miss your infusion, you go with the known #ibd #crohns #inflectra
+https://www.gotostepone.com/post/autoimmune-disease-and-healthcares-failure/

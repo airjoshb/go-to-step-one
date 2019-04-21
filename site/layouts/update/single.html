@@ -1,3 +1,35 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:584dc112065c0ed99f4ecaa9536ca8537de89d3a54e9ca17ea1b4de3aa8578c9
-size 1744
+{{ define "main" }}
+  <div class="flex" id="update">
+    <div class="w-3/4 m-auto overflow-hidden bg-white shadow-lg px-5 pt-8 pb-4" id="post">
+      <div class="mb-8 flex items-end">
+        {{ if .Params.image }}<img src="{{ .Params.image }}?nf_resize=fit&w=1000" alt="{{ .Title }}" class="w-3/5 border-r-8 border-solid border-green-brand" />{{ end }}
+        <h1 class="font-serif text-brand leading-none mb-0 ml-3">{{.Title}}</h1>
+      </div>
+      <div class="flex flex-row" id="content">
+        <div class="text-brand w-1/4 mr-1 italic text-sm font-serif" id="colophon">
+          {{ .Date.Format "Monday, January 2, 2006" }}
+          <div class="">
+            Share on
+            <a href="//twitter.com/share?url={{ .Permalink }}&amp;text=I%20just%20saw%20this&amp;via=airjoshb" target="_blank" class="inline-block shadow-none align-middle hover:shadow-none">
+              <svg width="16px" height="16px" class="db fill-brand inline">
+                <use xlink:href="#icons-twitter"></use>
+              </svg>
+            </a>
+          </div>
+          <div class="text-right mt-2 border-t-4 pt-2 border-solid border-green-brand">      
+            <svg class="h-5 green-brand" height="20" width="20">
+              <circle cx="10" cy="10" r="8" stroke="transparent" fill="brand"></circle>
+            </svg>
+          </div>
+        </div>
+        <div class="w-3/4 leading-normal text-lg border-l-thick border-solid border-green-brand pl-4" id="body">
+          {{ .Content }}
+          <svg class="h-5 green-brand" height="20" width="20">
+            <circle cx="10" cy="10" r="8" stroke="transparent" fill="brand"></circle>
+          </svg>
+        </div>
+      </div>
+    </div>
+    {{ partial "nav" .}}
+  </div>
+{{ end }}

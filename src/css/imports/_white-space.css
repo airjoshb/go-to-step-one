@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d6cf9fcb96c8cfda2b54e641a6b96d8fc2a79a5418360b721094bbaea3aef6f6
-size 527
+.ws-normal { white-space: normal; }
+.nowrap { white-space: nowrap; }
+.pre { white-space: pre; }
+
+@media (--breakpoint-not-small) {
+  .ws-normal-ns { white-space: normal; }
+  .nowrap-ns { white-space: nowrap; }
+  .pre-ns { white-space: pre; }
+}
+
+@media (--breakpoint-medium) {
+  .ws-normal-m { white-space: normal; }
+  .nowrap-m { white-space: nowrap; }
+  .pre-m { white-space: pre; }
+}
+
+@media (--breakpoint-large) {
+  .ws-normal-l { white-space: normal; }
+  .nowrap-l { white-space: nowrap; }
+  .pre-l { white-space: pre; }
+}

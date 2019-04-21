@@ -1,3 +1,31 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5a7a4c4748c082878798799eae411fb9e57c9f98409cfd9dfdb389f56be9e9b8
-size 613
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
+
+{{ partial "4-up" .Params.intro }}
+
+
+{{ with .Params.main }}
+<div class="mw7 center">
+  <div class="mw6 ph3 mb3">
+    <h3 class="f3 b lh-title mb2">{{ .heading }}</h3>
+    <p>{{ .description }}</p>
+  </div>
+</div>
+
+<!-- Image grid -->
+{{ partial "image-grid" . }}
+{{ end }}
+
+<div class="pb4">
+  {{ range .Params.testimonials }}
+    {{ partial "blockquote" . }}
+  {{ end }}
+</div>
+
+<!-- Full-width image -->
+<img src="{{ .Params.full_image }}" alt="" class="db w-100">
+
+{{ partial "table" .Params.pricing }}
+
+{{ end }}

@@ -1,3 +1,116 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:900b76621b4180f7df78962761c1fdb4256a49bf8b016d36ee48070cda0e8730
-size 3139
+import gulp from "gulp";
+import cp from "child_process";
+import gutil from "gulp-util";
+import postcss from "gulp-postcss";
+import purgecss from "gulp-purgecss";
+import cssImport from "postcss-import";
+import cssnext from "postcss-cssnext";
+import BrowserSync from "browser-sync";
+import webpack from "webpack";
+import webpackConfig from "./webpack.conf";
+import svgstore from "gulp-svgstore";
+import svgmin from "gulp-svgmin";
+import inject from "gulp-inject";
+import cssnano from "cssnano";
+import tailwindcss from "tailwindcss";
+
+const browserSync = BrowserSync.create();
+const hugoBin = `./bin/hugo.${process.platform === "win32" ? "exe" : process.platform}`;
+const defaultArgs = ["-d", "../dist", "-s", "site"];
+const tailwindConfig = "src/css/tailwind.js";
+
+// Custom PurgeCSS Extractor
+// https://github.com/FullHuman/purgecss
+class TailwindExtractor {
+  static extract(content) {
+    return content.match(/[A-z0-9-:\/]+/g) || [];
+  }
+}
+
+if (process.env.DEBUG) {
+  defaultArgs.unshift("--debug")
+}
+
+gulp.task("hugo", (cb) => buildSite(cb));
+gulp.task("hugo-preview", (cb) => buildSite(cb, ["--buildDrafts", "--buildFuture"]));
+gulp.task("build", ["css", "js", "hugo"]);
+gulp.task("build-preview", ["css", "js", "hugo-preview"]);
+
+
+gulp.task("css", () => (
+  gulp.src("./src/css/*.css")
+    .pipe(postcss([
+      cssImport(tailwindcss(tailwindConfig)),
+      cssnext({ browsers: ['last 2 versions'] }),
+      cssnano(),
+    ]))
+    // .pipe(
+    //   purgecss({
+    //     content: ["**/*.html"],
+    //     extractors: [
+    //       {
+    //         extractor: TailwindExtractor,
+    //         extensions: ["css","html"]
+    //       }
+    //     ]
+    //   })
+    // )
+    .pipe(gulp.dest("./dist/css"))
+    .pipe(browserSync.stream())
+));
+
+gulp.task("js", (cb) => {
+  const myConfig = Object.assign({}, webpackConfig);
+
+  webpack(myConfig, (err, stats) => {
+    if (err) throw new gutil.PluginError("webpack", err);
+    gutil.log("[webpack]", stats.toString({
+      colors: true,
+      progress: true
+    }));
+    browserSync.reload();
+    cb();
+  });
+});
+
+gulp.task("svg", () => {
+  const svgs = gulp
+    .src("site/static/img/icons-*.svg")
+    .pipe(svgmin())
+    .pipe(svgstore({inlineSvg: true}));
+
+  function fileContents(filePath, file) {
+    return file.contents.toString();
+  }
+
+  return gulp
+    .src("site/layouts/partials/svg.html")
+    .pipe(inject(svgs, {transform: fileContents}))
+    .pipe(gulp.dest("site/layouts/partials/"));
+});
+
+gulp.task("server", ["hugo", "css", "js", "svg"], () => {
+  browserSync.init({
+    server: {
+      baseDir: "./dist"
+    }
+  });
+  gulp.watch("./src/js/**/*.js", ["js"]);
+  gulp.watch("./src/css/**/*.css", ["css"]);
+  gulp.watch("./site/static/img/icons-*.svg", ["svg"]);
+  gulp.watch("./site/**/*", ["hugo"]);
+});
+
+function buildSite(cb, options) {
+  const args = options ? defaultArgs.concat(options) : defaultArgs;
+
+  return cp.spawn(hugoBin, args, {stdio: "inherit"}).on("close", (code) => {
+    if (code === 0) {
+      browserSync.reload("notify:false");
+      cb();
+    } else {
+      browserSync.notify("Hugo build failed :(");
+      cb("Hugo build failed");
+    }
+  });
+}

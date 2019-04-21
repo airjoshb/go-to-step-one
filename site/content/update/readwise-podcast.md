@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:04d91079f25a8fd9f7f05a1d5d9b78fe8a81e62d0f99c8323176d19af84f737a
-size 361
+---
+title: Readwise Podcast
+date: 2019-02-23T22:18:11.194Z
+---
+Daniel Doyon, the co-founder of one of my favorite pieces of independent/bootstrapped software from last year, <https://readwise.io>, gives a podcast interview worth checking out about creating and exploring the future of reading and books ->\
+<https://creativeminds.simplecast.fm/34-daniel-doyon>

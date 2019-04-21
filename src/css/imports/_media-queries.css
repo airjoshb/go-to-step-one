@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8f748880658f93c1fd2dc9b23fbca71ff859c09a743c3ea1283ea9a632038c35
-size 196
+@custom-media --breakpoint-not-small screen and (min-width: 40em);
+
+@custom-media --breakpoint-medium screen and (min-width: 50em);
+
+@custom-media --breakpoint-large screen and (min-width: 60em);

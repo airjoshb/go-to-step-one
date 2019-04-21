@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3dbb656ba3bfc165e4a5a98c79254810280421fb480c5dfa3b9ace0a86fe1cf3
-size 178
+pre {
+  overflow-x: auto;
+  overflow-y: hidden;
+  overflow: scroll;
+  margin-bottom: var(--spacing-medium);
+  background-color: var(--grey-1);
+  padding: var(--spacing-small);
+}

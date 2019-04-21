@@ -1,3 +1,24 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9592353125f0d09c54a8ebef8f38317bdd20b38beb4f632e35c1d43250fe4648
-size 432
+{{ define "main" }}
+
+<div class="ph3 bg-off-white">
+	<div class="center mw6 pv3">
+
+		<img src="{{ .Params.logo }}" alt="" class="db w4 center pv4">
+
+		{{ .Content }}
+
+		<div class="flex-ns mb3">
+	        	{{ range .Params.contact_entries }}
+				<div>
+					<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
+					<p>{{ .text }}</p>
+				</div>
+			{{ end }}
+		</div>
+
+		{{ partial "contact-form" . }}
+
+	</div>
+</div>
+
+{{ end }}

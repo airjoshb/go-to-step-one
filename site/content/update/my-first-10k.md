@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:61fb242a2eb8bd486bdc0f65f09f88163c2110419ec25d42065524a49a992dc2
-size 164
+---
+title: My first 10K
+date: 2019-03-01T22:22:45.348Z
+---
+Today I signed up for my first 10K and it is this Sunday! Come join me https://santacruzhalfmarathon.com/

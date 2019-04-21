@@ -1,3 +1,25 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5949766c91408e8df5ddc6b0cca183e82e207dc513141607bc0b16af2eb8c030
-size 672
+.static { position: static; }
+.relative  { position: relative; }
+.absolute  { position: absolute; }
+.fixed  { position: fixed; }
+
+@media (--breakpoint-not-small) {
+  .static-ns { position: static; }
+  .relative-ns  { position: relative; }
+  .absolute-ns  { position: absolute; }
+  .fixed-ns  { position: fixed; }
+}
+
+@media (--breakpoint-medium) {
+  .static-m { position: static; }
+  .relative-m  { position: relative; }
+  .absolute-m  { position: absolute; }
+  .fixed-m  { position: fixed; }
+}
+
+@media (--breakpoint-large) {
+  .static-l { position: static; }
+  .relative-l  { position: relative; }
+  .absolute-l  { position: absolute; }
+  .fixed-l  { position: fixed; }
+}

@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ea7297b52eda7d18b7ee237e82faeec2b0e3658cd035f56706aa96a93579250c
-size 688
+.strike       { text-decoration: line-through; }
+.underline    { text-decoration: underline; }
+.no-underline { text-decoration: none; }
+
+
+@media (--breakpoint-not-small) {
+  .strike-ns       { text-decoration: line-through; }
+  .underline-ns    { text-decoration: underline; }
+  .no-underline-ns { text-decoration: none; }
+}
+
+@media (--breakpoint-medium) {
+  .strike-m       { text-decoration: line-through; }
+  .underline-m    { text-decoration: underline; }
+  .no-underline-m { text-decoration: none; }
+}
+
+@media (--breakpoint-large) {
+  .strike-l       { text-decoration: line-through; }
+  .underline-l {    text-decoration: underline; }
+  .no-underline-l { text-decoration: none; }
+}

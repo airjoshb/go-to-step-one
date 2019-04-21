@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a18911eba1d3e00bf00167a305584d1c7d405932b0382a432081181508459fc3
-size 79
+img {
+  max-width: 100%;
+}
+
+/* Remove border-radiius from full-width images */

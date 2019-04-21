@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8a7e9595b25fac578cf307be972ddbfb1635b3f29313640baecc73dff17b6bac
-size 344
+class TailwindExtractor {
+	static extract(content) {
+		return content.match(/[A-z0-9-:\/]+/g)
+	}
+}
+
+module.exports = {    
+  plugins: [        
+    require('postcss-import')({
+      path: ["src/css"],
+    }), 
+    require('tailwindcss')('./src/css/tailwind.js'),    
+    require('autoprefixer')({      
+      browsers: ['>1%']
+    }),    
+  ]
+}

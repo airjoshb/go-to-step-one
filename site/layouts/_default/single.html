@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:db7a3193120edf60bb915f07c97fa164259e4958892a7e4a59fed85a881be290
-size 190
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" "/img/7.jpg" "title" "This is where the heading goes" "subtitle" "This is where the subtitle goes") }}
+{{ .Content }}
+
+{{ end }}

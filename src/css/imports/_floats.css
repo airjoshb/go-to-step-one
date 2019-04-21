@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9014e97350337b66a2d3cea2aee5e0958c805b666ac8c2edec5c49e280d87c4f
-size 544
+.fl { float: left;  _display: inline; }
+.fr { float: right; _display: inline; }
+.fn { float: none; }
+
+@media (--breakpoint-not-small) {
+  .fl-ns { float: left; _display: inline; }
+  .fr-ns { float: right; _display: inline; }
+  .fn-ns { float: none; }
+}
+
+@media (--breakpoint-medium) {
+  .fl-m { float: left; _display: inline; }
+  .fr-m { float: right; _display: inline; }
+  .fn-m { float: none; }
+}
+
+@media (--breakpoint-large) {
+  .fl-l { float: left; _display: inline; }
+  .fr-l { float: right; _display: inline; }
+  .fn-l { float: none; }
+}

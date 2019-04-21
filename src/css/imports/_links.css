@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0a451d3f211cb02f1c3c292fcc7536293a21fdbe5da2fe35b40b45ca3abbd05c
-size 379
+.link {
+  text-decoration: none;
+  transition: var(--hover-transition);
+  color: inherit;
+}
+
+.link:link,
+.link:visited {
+  transition: color .15s ease-in;
+}
+.link:hover   {
+  transition: color .15s ease-in;
+  text-decoration: underline;
+}
+.link:active  {
+  transition: color .15s ease-in;
+}
+.link:focus   {
+  transition: color .15s ease-in;
+  outline: 1px dotted currentColor;
+}

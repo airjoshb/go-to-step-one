@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a06af02455a1f28cf60babb575d4898a30cb9c4ff4c54934b5debd4d0aa29f0e
-size 314
+<div class="bg-off-white pv4 ph3">
+
+	<div class="mw7 center">
+
+		<h2 class="f2 b lh-title mb3">{{.heading}}</h2>
+		<p class="mw6">{{.description}}</p>
+
+		<div class="flex-ns mhn2-ns mw7">
+			{{ range .plans }}
+			<div class="w-33-ns ph2">{{ partial "table-column" . }}</div>
+			{{ end }}
+		</div>
+
+	</div>
+
+</div>

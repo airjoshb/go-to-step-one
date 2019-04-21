@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:86d26c2eb6fca11d8b98d9cde2b29e8c54a1db0d43a12dd70eeaaae8d1a99e4f
-size 111
+svg {
+  fill: currentColor;
+  fill-rule:evenodd;
+  clip-rule:evenodd;
+  max-width: 100%;
+  max-height: 100%;
+}

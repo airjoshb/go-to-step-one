@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a803add43981c4138bd0943c6113e041c3042a24bc653fb4e1071fe427bdae46
-size 472
+---
+title: Stalker
+date: 2019-02-23T01:00:00.000Z
+image: /img/tarkovsky-stalker.png
+---
+The movie of the week for people who have signed up for the forthcoming Criterion Channel, was Tarkovsky's Stalker. I had never seen this film before, but was immediately struck by how much it reminded me of Annihilation. Watching this film has sent me on a deep dive that I hope to distill and share later, but for now, go watch this film. <https://www.criterionchannel.com/stalker>

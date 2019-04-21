@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:46126f206d77f1f9d210b5687826776af25e096878b47ac19324e6b8d5e7e854
-size 59
+node_modules/
+dist/
+/npm-debug.log
+yarn-error.log
+.DS_Store

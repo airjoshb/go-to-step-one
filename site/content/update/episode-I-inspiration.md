@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1c310299f63143abbe1f347b05e5daa2a7b8253bbaa4e5ff4d4dc5ae878839da
-size 404
+---
+title: Finding The Rise of Skywalker
+date: 2019-04-19T18:01:24.000Z
+image: /img/episode-ix.png
+
+---
+Since I came down with a flu post-Disneyland, I decided to dive into @Logans_Tweets "road to Episode IX" film challenge, remixing his original list a bit and posting my thoughts on EP:I, THX 1138, Ben Hur and American Graffiti #StarWars https://www.gotostepone.com/post/finding-the-rise-of-skywalker/

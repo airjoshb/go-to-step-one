@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1216762209b61d07e9c78696ca7b5d5e6fbc4494821ef273692dc050aacf7f63
-size 166
+[build]
+  command = "npm run build"
+  publish = "dist"
+[build.environment]
+  tz = "America/Los_Angeles"
+
+[context.deploy-preview]
+  command = "npm run build-preview"

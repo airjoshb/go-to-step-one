@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3af23171dc2d17f242153fd92678cb6dd90a9fc6202a7665d420c9224b0548cf
-size 412
+<div class="bg-off-white pv4">
+	<div class="ph3 mw7 center">
+		<h2 class="f2 b lh-title mb2">{{.heading}}</h2>
+		<p class="mb4 mw6">{{.description}}</p>
+
+		<div class="flex-ns flex-wrap mhn2-ns mb3">
+			{{ range .blurbs }}
+				<div class="ph2-ns w-50-ns mb4">
+					<img src="{{ .image }}" alt="" class="center db mb3" style="width: 240px">
+					<p>{{ .text }}</p>
+				</div>
+			{{ end }}
+		</div>
+	</div>
+</div>

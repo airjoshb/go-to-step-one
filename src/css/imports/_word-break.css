@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4feac25deca7399cfd8a909c9d71cb2d976def3073d7b2deddd283b72a923318
-size 599
+.word-normal { word-break: normal; }
+.word-wrap { word-break: break-all; }
+.word-nowrap { word-break: keep-all; }
+
+@media (--breakpoint-not-small) {
+  .word-normal-ns { word-break: normal; }
+  .word-wrap-ns { word-break: break-all; }
+  .word-nowrap-ns { word-break: keep-all; }
+}
+
+@media (--breakpoint-medium) {
+  .word-normal-m { word-break: normal; }
+  .word-wrap-m { word-break: break-all; }
+  .word-nowrap-m { word-break: keep-all; }
+}
+
+@media (--breakpoint-large) {
+  .word-normal-l { word-break: normal; }
+  .word-wrap-l { word-break: break-all; }
+  .word-nowrap-l { word-break: keep-all; }
+}

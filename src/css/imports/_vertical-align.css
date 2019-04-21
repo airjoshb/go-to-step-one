@@ -1,3 +1,25 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:caaae3bab973dd61d81a6eed1ce4064911abd4e2f3a5576b3c98d9eba1791bc3
-size 792
+.v-base     { vertical-align: baseline; }
+.v-mid      { vertical-align: middle; }
+.v-top      { vertical-align: top; }
+.v-btm      { vertical-align: bottom; }
+
+@media (--breakpoint-not-small) {
+  .v-base-ns     { vertical-align: baseline; }
+  .v-mid-ns      { vertical-align: middle; }
+  .v-top-ns      { vertical-align: top; }
+  .v-btm-ns      { vertical-align: bottom; }
+}
+
+@media (--breakpoint-medium) {
+  .v-base-m     { vertical-align: baseline; }
+  .v-mid-m      { vertical-align: middle; }
+  .v-top-m      { vertical-align: top; }
+  .v-btm-m      { vertical-align: bottom; }
+}
+
+@media (--breakpoint-large) {
+  .v-base-l     { vertical-align: baseline; }
+  .v-mid-l      { vertical-align: middle; }
+  .v-top-l      { vertical-align: top; }
+  .v-btm-l      { vertical-align: bottom; }
+}

@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4821595a35a6690f505055883b8cde980a9eae315a5a45077072f7729c6de57d
-size 346
+<div class="flex flex-wrap">
+  <div class="mb-6">
+  <span class="text-sm font-bold text-grey uppercase">{{ .date.Format "February 2006" }}</span>  
+  <a href="{{ .RelPermalink }}" class="shadow-none font-serif text-3xl capitalize text-brand block">{{.heading}}</a>
+  <p class="font-serif text-lg italic text-brand">{{.text}}</p>
+  </div>
+</div>
+

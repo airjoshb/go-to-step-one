@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5e3a99c4ae7c2b177ed0b2d2491d362cef9fc578a244ced0f4d10e020fbeeac3
-size 127
+{
+  "presets": ["@babel/preset-env"],
+  "plugins": [
+    "syntax-object-rest-spread",
+    "transform-object-rest-spread"
+  ]
+}

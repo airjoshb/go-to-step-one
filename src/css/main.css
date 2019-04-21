@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:02c8d8e33f11f3f0b5f42cbe98197565f6437c3382ee960a35779be880de5166
-size 290
+  
+/* Base - Variables: tailwind-config.js */
+@import "tailwindcss/preflight";
+@import "tailwindcss/components";
+/* Site Specific */
+@import "tailwindcss/utilities";
+@import './brand';
+@font-face {
+    font-family: CT;
+    src: url('https://fonts.googleapis.com/css?family=Crimson+Text');
+}

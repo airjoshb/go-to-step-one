@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9c8caf14d635c3c153e72e8b481fbcdb8da7c944a3326aa14c168c36533499e5
-size 520
+<header class="w-full h-screen flex items-center relative overflow-hidden py-3 px-5 border-b-8 border-solid border-green-dark">
+  <img class="absolute l-0 t-0 h-auto" src={{.imageUrl}} />
+  
+  <div class="relative w-full text-right">
+    <a href="/" class="w-4 h-4">
+    {{ partial "logo" (dict "class" "fill-white w-12 h-12")  }}
+    </a> 
+    <h1 class="font-serif text-3xl white">
+      {{.title}}
+    </h1>
+    {{ if .subtitle }}
+    <p class="text-xl">
+      {{.subtitle}}
+    </p>
+    {{ end }}
+  </div>
+</header>

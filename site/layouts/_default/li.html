@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:54c82adb835354a0ac3b03b3e049ae2a5da8e1ada1978bdcfcfd2e51c0b7acf2
-size 985
+<a href="{{ .RelPermalink }}" class="shadow-none">
+	<div class="flex h-64 no-underline w-64 justify-end">
+		{{ if .Params.image }}
+			<div class="h-64 overflow-hidden relative inline-block outline-none border-none shadow-lg hover:shadow-none">
+				<img src="{{ .Params.image }}?nf_resize=fit&w=300" />
+			</div>
+			<div class="title mb-2 text-right">	
+				<h2 class="text-3xl font-serif capitalize font-bold text-brand">{{ .Title }}</h2>
+			</div>
+		{{ else }}
+			<div class="title-sans-image self-end">	
+				<h2 class="font-serif capitalize font-bold text-brand">{{ .Title }}</h2>
+			</div>
+		{{ end }}
+	</div>
+	{{ if .Description }}<div class=""><h5 class="border-t-8 border-solid border-green-brand text-md w-64 font-serif text-sm text-justify font-thin italic text-brand pt-2"><svg class="inline h-4 mr-1 align-middle green-brand" height="15" width="15"><circle cx="7.5" cy="7.5" r="6.5" stroke="transparent" fill="brand"></circle></svg>{{ .Description }}</h5></div>{{ end }}
+</a>

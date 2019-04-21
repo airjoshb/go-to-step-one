@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6277bc164824bc87e49540f8312db4705abbd9a14bdbb7e074da58f863a064f9
-size 263
+{
+  "extends": [
+    "config:base"
+  ],
+  "rangeStrategy": "replace",
+  "lockFileMaintenance": {
+    "enabled": true,
+    "extends": "schedule:weekly"
+  },
+  "packageRules": [
+    {
+      "packageNames": ["netlify-cms"],
+      "rangeStrategy": "bump"
+    }
+  ]
+}

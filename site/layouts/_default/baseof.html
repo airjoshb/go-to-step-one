@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:27ddd8310d3912e0bb2c4bede085e752009d84fb827e17e2f315d65876e575a6
-size 171
+<!doctype html>
+<html lang="en">
+  {{ partial "head" . }}
+  <body class="bg-grey-light">
+    {{ block "main" . }}{{ end }} 
+    {{ partial "footer" . }} 
+  </body>
+</html>
