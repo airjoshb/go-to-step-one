@@ -5,6 +5,12 @@ media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 logo_url: "/img/step-one-icon.svg"
 
+media_library:
+  name: cloudinary
+  output_filename_only: true
+  config:
+    cloud_name: airjoshb
+    api_key: 425996484659722
 
 collections: # A list of collections the CMS should be able to edit
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
