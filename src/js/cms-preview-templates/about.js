@@ -9,7 +9,7 @@ const MediaBlock = ({heading, text, imageUrl, reverse}) => {
     : "ph3-m w-50-m order-last-m";
   return <div className="flex-m mhn3-m mb4">
     <div className={imageContainerClassName}>
-      <img src="https://res.cloudinary.com/airjoshb/image/upload/t_post_size/v1556313746/{imageUrl}" alt="" className="db mb2" />
+      <img src={imageUrl} alt="" className="db mb2" />
     </div>
     <div className="ph3-m w-50-m">
       <h3 className="f3 b lh-title mb1">{heading}</h3>
