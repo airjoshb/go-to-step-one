@@ -2,7 +2,7 @@
 	<div class="flex h-64 no-underline w-64 justify-end">
 		{{ if .Params.image }}
 			<div class="h-64 overflow-hidden relative inline-block outline-none border-none shadow-lg hover:shadow-none">
-				<img src="{{ .Params.image }}?nf_resize=fit&w=300" />
+				<img src="https://res.cloudinary.com/airjoshb/image/upload/t_preview_size/v1556313746/{{ .Params.image }}" />
 			</div>
 			<div class="title mb-2 text-right">	
 				<h2 class="text-3xl font-serif capitalize font-bold text-brand">{{ .Title }}</h2>
