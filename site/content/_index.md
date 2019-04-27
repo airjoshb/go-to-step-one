@@ -1,6 +1,6 @@
 ---
-title: Passionate about making life better.
-subtitle: Support sustainable farming while enjoying a cup
+title: Start where you are at, then begin again.
+subtitle: Joshua is passionate about making life better. 
 image: go-to-step-one.jpg
 blurb:
   heading: Why Kaldi?
@@ -32,7 +32,7 @@ products:
       fall in love with in our shop.
 about:
   heading: About Joshua
-  image: /img/medium_joshua-bradley-june-17.jpg
+  image: medium_joshua-bradley-june-17.jpg
   text: >-
     Joshua has spent the better part of twenty years helping founders get from
     idea to launch and from launch to thriving company. He was the president of

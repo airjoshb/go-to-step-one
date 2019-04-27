@@ -1,6 +1,6 @@
 ---
 title: About Joshua
-image: /img/josh-alc-finish-bnw.jpg
+image: josh-alc-finish-bnw.jpg
 about_elements:
   - heading: Shade-grown coffee
     imageUrl: /img/about-shade-grown.jpg
