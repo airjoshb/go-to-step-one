@@ -11,6 +11,11 @@ media_library:
   config:
     cloud_name: airjoshb
     api_key: 425996484659722
+    default_transformations:
+      -   - fetch_format: auto
+            width: 1200
+            quality: auto
+            crop: scale
 
 collections: # A list of collections the CMS should be able to edit
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
