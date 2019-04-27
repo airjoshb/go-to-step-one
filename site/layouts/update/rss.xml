@@ -21,7 +21,7 @@
       <guid>{{ .Permalink }}</guid>
       <description>{{ .Summary | truncate 235 | html }}</description>
       <image>
-        <url>{{  absURL .Params.image}}</url>
+        <url>{{ .Params.image}}</url>
       </image>
     </item>
     {{ end }}
