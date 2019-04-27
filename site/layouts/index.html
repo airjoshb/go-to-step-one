@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <header class="main w-full h-screen relative overflow-hidden py-3 px-5 border-b-thick border-solid border-green-brand">
-    <img class="absolute l-0 t-0 h-auto image-header" src="https://res.cloudinary.com/airjoshb/image/upload/t_post_size/v1556313746/{{ .Params.image }}" />
+    <img class="absolute l-0 t-0 h-auto image-header" src="{{ .Params.image }}" />
     <div class="flex justify-end logo pt-12">
      {{ partial "logo" (dict "class" "fill-brand h-64 w-64")  }}
     </div>
