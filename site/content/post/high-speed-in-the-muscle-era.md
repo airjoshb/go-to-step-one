@@ -3,7 +3,7 @@ title: High Speed in the Muscle Era
 date: 2013-12-16T23:38:00.000Z
 description: >-
   Cinema in the late 1960s and '70s shifted focus as art gave way to grit, echoing society’s search for identity through the volatile time.
-image: /img/muscle-car-chases.jpg
+image: muscle-car-chases.jpg
 categories: 'cinema'
 tags: ['reviews', 'cars', 'best of']
 ---

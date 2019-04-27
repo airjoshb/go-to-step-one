@@ -1,7 +1,7 @@
 ---
 title: My First 10K Race!
 date: 2019-03-03T20:08:00.865Z
-image: /img/santa-cruz-half-marathon-10k-start.jpg
+image: santa-cruz-half-marathon-10k-start.jpg
 ---
 ![Santa Cruz Half Marathon](/img/santa-cruz-half-marathon-10k-finish.jpg)
 

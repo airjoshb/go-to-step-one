@@ -5,7 +5,7 @@ description: >-
   This incredibly personal book about growing up, parenting and finding where
   and how you fit into the world and your family, is one of my favorite reads
   this year.
-image: /img/lisa-brennan-jobs-small-fry.jpg
+image: lisa-brennan-jobs-small-fry.jpg
 categories: 'books'
 tags: ['memoir', 'non-fiction', 'reviews']
 ---

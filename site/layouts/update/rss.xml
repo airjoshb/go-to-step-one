@@ -21,7 +21,7 @@
       <guid>{{ .Permalink }}</guid>
       <description>{{ .Summary | truncate 235 | html }}</description>
       <image>
-        <url>{{ .Params.image}}</url>
+        <url>https://res.cloudinary.com/airjoshb/image/upload/w_350,f_auto/{{ .Params.image}}</url>
       </image>
     </item>
     {{ end }}

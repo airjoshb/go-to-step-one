@@ -3,7 +3,7 @@ title: Art is the making it
 date: '2018-02-07T01:02:21.327Z'
 description: >-
   What I learned walking around Stanford that my professors tried to teach me at the School of Museum of Fine Arts, Boston twenty years ago.
-image: /img/art-is-the-making-of-it.jpg
+image: art-is-the-making-of-it.jpg
 categories: 'creating'
 tags: 'art'
 ---
