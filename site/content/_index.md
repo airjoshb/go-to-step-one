@@ -1,5 +1,5 @@
 ---
-title: Start where you are at, then begin again.
+title: Start where you are at, and begin again.
 subtitle: Joshua is passionate about making life better. 
 image: go-to-step-one.jpg
 blurb:
