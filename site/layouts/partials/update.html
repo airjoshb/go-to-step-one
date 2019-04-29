@@ -1,21 +1,32 @@
-<div class="bg-grey-light py-4 flex flex-col h-auto justify-center items-center flex-wrap" id="now">
-    {{ range first 8 (where .Data.Pages "Type" "update") }}
-    <div class="flex flex-row flex-no-shrink w-3/4 mb-2 items-center update">
-        <div class="text-brand text-brand text-lg font-serif italic text-center mr-4">
-            <time class="mb-2">{{ .Date.Format "Monday ... 1pm" }}</time> 
-        </br>  
-            <a href="//twitter.com/share?url={{ .Permalink }}&amp;text=I%20just%20saw%20this&amp;via=airjoshb" target="_blank" class="inline-block shadow-none align-middle">
+<div class="bg-grey-light py-4 flex flex-col h-auto items-center flex-wrap" id="now">
+    {{ $paginator := .Paginate (where .Data.Pages "Type" "update") }}
+    {{ range $paginator.Pages }}
+    {{ if ne ($.Scratch.Get "lastUpdatesDate") (.Date.Format "2 January 2006") }}
+        <div class="text-brand text-lg font-serif font-bold italic mb-6">
+            {{ .Date.Format "2 January 2006" }}
+        </div>
+    {{ end }}
+    {{ $.Scratch.Set "lastUpdatesDate" (.Date.Format "2 January 2006") }}
+    <div class="flex flex-row flex-no-shrink w-3/4 mb-2 update border-b border-grey pb-2 mb-6">
+        <div class="text-brand flex flex-col text-brand text-base font-serif italic text-center">
+            {{ if .Params.image }}<img src="https://res.cloudinary.com/airjoshb/image/upload/w_200,h_200,c_fill,f_auto/{{ .Params.image }}" alt="{{ .Title }}" class="ml-2 mb-2 float-right inline" />{{ end }}        
+            <div>
+                <time>{{ .Date.Format "Monday ... 1pm" }}</time> 
+                ~ 
+                <a href="{{ .RelPermalink }}" class="inline shadow-none hover:shadow-none hover:text-green-brand">link</a>
+                ~  
+                <a href="//twitter.com/share?url={{ .Permalink }}&amp;text=I%20just%20saw%20this&amp;via=airjoshb" target="_blank" class="inline-block shadow-none align-middle">
                     <svg width="16px" height="16px" class="db fill-brand inline">
                     <use xlink:href="#icons-twitter"></use>
                     </svg>
                 </a>
-                ~  
-                <a href="{{ .RelPermalink }}" class=" shadow-none hover:shadow-none hover:text-green-brand">link</a>
             </div>
-        <div class="bg-grey-lightest rounded-lg p-4 w-3/4 update text-lg leading-normal text-brand font-serif">
-            {{ if .Params.image }}<img src="https://res.cloudinary.com/airjoshb/image/upload/w_350,f_auto/{{ .Params.image }}" alt="{{ .Title }}" class="w-1/2 ml-2 mb-2 float-right inline" />{{ end }}        
+        </div>
+        <div class="p-4 w-3/4 update text-lg leading-normal text-brand font-serif">
             {{ .Content }}  
         </div>
     </div>
     {{ end }}
+    {{ partial "pagination" . }}
+
 </div>
