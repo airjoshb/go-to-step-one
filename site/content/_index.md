@@ -1,6 +1,6 @@
 ---
-title: Start where you are, and begin again.
-subtitle: Joshua is passionate about making life better. 
+title: Realizing human potential through work and wellness.
+subtitle: Joshua is passionate about making life better, sign up to receive a newsletter of thoughts on what he is reading, human performance and entrepreneurship.
 image: go-to-step-one.jpg
 blurb:
   heading: Why Kaldi?
