@@ -1,5 +1,5 @@
 ---
-title: Podcast: How I Ran a Sub-3-Hour Marathon from HVMN
+title: How I Ran a Sub-3-Hour Marathon from HVMN
 date: 2019-04-30T15:47:20.000Z
 image: step_one_hvmn-marathon-podcast.jpg
 ---
