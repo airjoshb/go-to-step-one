@@ -20,9 +20,11 @@
       {{ with .Site.Author.name }}<author>{{.}}{{ with $.Site.Author.twitter}} aka {{.}} {{end}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
       <description>{{ .Summary | truncate 235 | html }}</description>
+      {{ if .Params.image }}
       <image>
         <url>https://res.cloudinary.com/airjoshb/image/upload/w_350,f_auto/{{ .Params.image}}</url>
       </image>
+      {{ end }}
     </item>
     {{ end }}
   </channel>
