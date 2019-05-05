@@ -13,11 +13,11 @@ Always game for a dive into cinematic threads (also, Star Wars), I couldn't help
 
 A few days later, with a post-Disneyland flu, I decided to dig into Logan's list, bake in my own thoughts on cinema and Star Wars canon, and watch some films I rarely make time for these days.
 
-`> I will update this post as I move through the list, but I got you started with the films that inspired *The Phantom Menace* `
+I will update this post as I move through the list, but I got you started with the films that inspired *The Phantom Menace* 
 
-`> First update: [link](#epii) to *Attack of the Clones*`
+* First update: [link](#epii) to *Attack of the Clones*
 
-`> Second update: [link](#epiii) to *Revenge of the Sith*`
+** Second update: [link](#epiii) to *Revenge of the Sith*
 
 `> I have also provided links to rent/buy or stream for free. You'll also find many links to the newest streaming service (of which I am a charter member), [Criterion Channel](https://www.criterionchannel.com).
 `
