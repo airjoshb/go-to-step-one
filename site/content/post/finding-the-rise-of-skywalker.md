@@ -19,7 +19,7 @@ I will update this post as I move through the list, but I got you started with t
 
 ** Second update: [link](#epiii) to *Revenge of the Sith*
 
-`> I have also provided links to rent/buy or stream for free. You'll also find many links to the newest streaming service (of which I am a charter member), [Criterion Channel](https://www.criterionchannel.com).
+*** If you like movies, you might want to sign up for [Criterion Channel]'(https://www.criterionchannel.com)'s new streaming service.
 `
 
 ## Star Wars: Episode I - The Phantom Menace
