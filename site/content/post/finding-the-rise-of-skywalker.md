@@ -15,11 +15,11 @@ A few days later, with a post-Disneyland flu, I decided to dig into Logan's list
 
 I will update this post as I move through the list, but I got you started with the films that inspired *The Phantom Menace* 
 
-* First update: *[Attack of the Clones](#epii)*
+-First update: *[Attack of the Clones](#epii)*
 
-** Second update: *[Revenge of the Sith](#epiii)*
+-Second update: *[Revenge of the Sith](#epiii)*
 
-*** If you like movies, you might want to sign up for the most exciting streaming service, [Criterion Channel](https://www.criterionchannel.com).
+*If you like movies, you might want to sign up for the most exciting streaming service, [Criterion Channel](https://www.criterionchannel.com).
 `
 
 ## Star Wars: Episode I - The Phantom Menace
