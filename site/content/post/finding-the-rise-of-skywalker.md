@@ -3,7 +3,7 @@ title: Finding The Rise of Skywalker
 date: 2019-04-19T18:01:24.000Z
 description: >-
   I'm taking on the challenge to watch the films that inspired the Star Wars universe before the release of *Episode IX, The Rise of Skywalker*.
-image: /img/episode-ix.png
+image: episode-ix.png
 categories: 'cinema'
 tags: 'star wars'
 ---
