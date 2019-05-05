@@ -19,7 +19,7 @@ I will update this post as I move through the list, but I got you started with t
 
 ** Second update: *[Revenge of the Sith](#epiii)*
 
-*** If you like movies, you might want to sign up for [Criterion Channel]'(https://www.criterionchannel.com)'s new streaming service.
+*** If you like movies, you might want to sign up for the most exciting streaming service, [Criterion Channel](https://www.criterionchannel.com).
 `
 
 ## Star Wars: Episode I - The Phantom Menace
