@@ -2,10 +2,16 @@
 title: Finding The Rise of Skywalker
 date: 2019-04-19T18:01:24.000Z
 description: >-
-  I'm taking on the challenge to watch the films that inspired the Star Wars universe before the release of *Episode IX, The Rise of Skywalker*.
+  I'm taking on the challenge to watch the films that inspired the Star Wars universe before the release of Episode IX - The Rise of Skywalker.
 image: episode-ix.png
 categories: 'cinema'
 tags: 'star wars'
+toc: true
+resources:
+    - src: "episode-one.md"
+    - src: "episode-two.md"
+    - src: "episode-three.md"
+
 ---
 Always game for a dive into cinematic threads (also, Star Wars), I couldn't help but offer my two cents when I came across this tweet from Logan, 
 
@@ -13,11 +19,4 @@ Always game for a dive into cinematic threads (also, Star Wars), I couldn't help
 
 A few days later, with a post-Disneyland flu, I decided to dig into Logan's list, bake in my own thoughts on cinema and Star Wars canon, and watch some films I rarely make time for these days.
 
-I will update this post as I move through the list, but I got you started with the films that inspired *The Phantom Menace* 
-
--First update: *[Attack of the Clones](#epii)*
-
--Second update: *[Revenge of the Sith](#epiii)*
-
-*If you like movies, you might want to sign up for the most exciting streaming service, [Criterion Channel](https://www.criterionchannel.com).
-`
+*If you like movies, you might want to sign up for the newest (and best) streaming service, [Criterion Channel](https://www.criterionchannel.com).

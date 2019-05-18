@@ -1,4 +1,7 @@
-## Star Wars: Episode I - The Phantom Menace
+---
+title: Star Wars Episode I - The Phantom Menace
+date: 2019-04-19T18:01:24.000Z
+---
 {{< figure src="/img/phantom-menace.jpg?nf_resize=fit&w=300" title="Star Wars: Episode I" attr="rent/buy" attrlink="https://amzn.to/2ULuMBT" >}}
 
 A "new" Star Wars film was a promise few could actually believe twenty years ago and despite its decidedly small fan base,* Episode I* came with the most impressive hype machine and design craft that the world has ever seen. The teaser posters were stunning, the theatrical poster was gorgeous, the costuming was next level, and the toys launched two weeks before the film dropped are my favorite ever. 

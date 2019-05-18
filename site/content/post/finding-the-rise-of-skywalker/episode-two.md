@@ -1,4 +1,7 @@
-<h2 id="epii">Star Wars: Episode II - Attack of the Clones</h2>
+---
+title: Star Wars Episode II - Attack of the Clones
+date: 2019-05-04T18:01:24.000Z
+---
 {{< figure src="https://upload.wikimedia.org/wikipedia/en/3/32/Star_Wars_-_Episode_II_Attack_of_the_Clones_%28movie_poster%29.jpg" title="image from Wikipedia" attr="rent/buy" attrlink="https://amzn.to/2V44fQu" >}}
 The group of fans that think *Attack of the Clones* is the best prequel film is short on membership. I may, in fact, be the only one. There is a lot to dislike about the second prequel, not the least of which is how much of the battle that bears the title looks like a video game. Then there is the poorly executed budding relationship between Anakin and Padme. If you loosen up your cringe, *Episode II* opens the aperture of Lucas's vision while returning to the successful formula of splitting the story in two adventures that converge at the climax. We also get much more of Ewan McGregor as Obi-Wan on his own as he tries to discover the mysteries of a missing planet, the clone army, and the person behind it. McGregor was the best part of the prequels, consistently delivering both the humor and humanity we project on to the memory of Old Ben.
 
