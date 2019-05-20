@@ -22,7 +22,7 @@ The mythology of the SIth owes much to *Throne of Blood* —Lord Tsuzuki took th
 
 Washizu and Miki, once best friends and the two most trusted generals, find themselves at odds. The outcomes are different between the films, but you can almost hear Miki plead with Washizu as Obi-Wan does, "You were my brother, Anakin! I loved you." Ultimately, being spurred on by his wife, Washizu chooses what he secretly desires instead of maintaining his loyalty, much like Anakin's decision to betray Mace Windu and the Jedi Order. Like Anakin, Washizu descends into evil before finding a violent end (the end for Anakin Skywalker, that is).
 
-{{< figure src="https://res.cloudinary.com/airjoshb/image/upload/w_500,f_auto/yoda-episode-iii_thxqym.jpg" >}}
+![Throne of Yoda](https://res.cloudinary.com/airjoshb/image/upload/w_500,f_auto/yoda-episode-iii_thxqym.jpg)
 If you ever wondered where Yoda and his home planet came from, look no further than the mystical spirit in a forest of dense fog that provides Washizu with guidance in wrapped nonsensical riddles.
 
 **The Godfather**

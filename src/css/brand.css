@@ -8,10 +8,17 @@ body {
     font-display: fallback;
     -webkit-font-smoothing: antialiased;
 }
-figcaption { @apply .text-xs; @apply .font-serif; @apply .w-full; @apply .flex-auto; @apply .flex; @apply .italic; }
+figcaption { @apply .text-xs; @apply .font-serif; @apply .w-3/4; @apply .italic; }
 figcaption h4 {@apply .mr-2;}
-figure {@apply .flex; @apply .flex-wrap; }
-figure img {@apply .self-center;}
+figure {
+    float: left;
+    clear: left;
+    margin-left: -40%;
+    width: 40%;
+    position: relative;
+    margin-right: 5%;
+}
+figure img { @apply .w-full;}
 #post #body p, #update p, #body ul, #post #body ol, .update p { @apply .mb-3; @apply .font-serif; }
 #post h1 {font-size: 3.3rem;}
 #blog #post #body>p:first-of-type:first-letter {
@@ -80,6 +87,8 @@ nav a, nav a:hover {box-shadow: none;}
 #list-item {flex-basis: 33%;}
 svg.green-brand {fill: config("colors.green-brand");}
 code { @apply .text-sm;}
+
+
 @screen sm {}
 
 @media screen and (max-width: 768px) {
@@ -128,12 +137,18 @@ code { @apply .text-sm;}
     #content {@apply .flex-col;}
     #colophon, #body { @apply .w-full;}
     #body {@apply border-l-0; }
-    #post { @apply .w-5/6;}
+    #post { @apply .w-full;}
     #post h1 { @apply .text-4xl;}
     #sidebar-nav { @apply py-2; @apply .m-auto; @apply .w-32; @apply px-0;}
     #sidebar-nav .logo { @apply .h-32; @apply .w-32;}
     #post > div {@apply .flex-wrap}
     #post > div img {@apply .flex-wrap; @apply .w-full; @apply .border-r-0; @apply .border-b-8;}
     #post > div h1 {@apply pt-4; @apply ml-0;}
+    figure {
+        margin-left: 0%;
+        width: 90%;
+        margin: 0 auto;
+        float: none;
+    }
   }
   

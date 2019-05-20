@@ -61,7 +61,7 @@ A 1971 LeMans is certainly not going to be high on the list of anyone’s choice
 {{< figure src="/img/car-chase-italian-job.jpg" title="The Italian Job" attr="Stream/Download" attrlink="https://amzn.to/2YJmeKq" >}}
 If the perfect heist requires nimbleness more than muscle, an Austin Mini Cooper will not only fit the bill but make a statement at the same time. In the Italian Job, the cars become characters, developed over time and given their moment to shine—weaving through palazzos, circling on rooftops, careening across rivers and through sewers. Indeed, Charlie Croker’s plan would not have succeeded without the Austins, though it has been reported that Fiat offered unlimited cars and a sum of money to replace them, with the filmmaker’s refusing on the grounds that the film was decidedly English. True to those words, the style of the film, like many other British/US genre counterparts, is more caper than a thriller, with a lot of humor and wit. This car chase is the most clever, the most precise and the most fun to watch. The remake of this movie is a bit of a different animal but also features the Mini, in it’s latest form. While still clever and fun to watch, it lacks the soul and a sort of grit that the original chase has.
 
-#### 4: Smokey and the Bandit
+## 4: Smokey and the Bandit
 <svg width="16px" height="16px" class="db">
   <use xlink:href="#iconmonstr-star-3"></use>
 </svg>
@@ -78,7 +78,7 @@ If the perfect heist requires nimbleness more than muscle, an Austin Mini Cooper
 {{< figure src="/img/car-chase-smokey-bandit.jpg" title="Smokey and the Bandit" attr="Stream/Download" attrlink="https://amzn.to/2UdLzxd" >}}
 Pontiac could probably measure the return on investment for the Trans Am as the Bandit even as it tried to milk the name into the late 90s. Smokey and the Bandit was the second highest grossing film of 1977, being eclipsed only by a little film called Star Wars. On a mission (mostly for the money) to bootleg some Coors beer (speaking of brand boosts) from Texarkana to Georgia in less than twenty-eight hours, Bo Danville, played by none other than Burt Reynolds, gets chased by everything resembling a man of the law. No one pursues with more vigor than Buford T. Justice in our second Pontiac LeMans on this list, and his son, whose bride-to-be (played by Sally Field) just happened to be picked up off the side of the road by the Bandit. While Smokey and the Bandit isn’t the best film here, the comedy is spot on and the banter-driven chemistry between Field and Reynolds is great. Toss in some incredible driving and stunt work and you’ll find that Smokey is a heck of a good time.
 
-#### 5: Gone in 60 Seconds
+## 5: Gone in 60 Seconds
 <svg width="16px" height="16px" class="db">
   <use xlink:href="#iconmonstr-star-3"></use>
 </svg>
