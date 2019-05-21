@@ -21,11 +21,11 @@ I spent my birthday celebrating that wellness, a long gong fu session at Hidden 
 
 ### Breaking Pretty Good
 
-{{< figure src="https://res.cloudinary.com/airjoshb/image/upload/v1558400916/step_one_bay-to-breakers-collage.jpg" title="Bay to Breakers 2019" attr="" attrlink="" >}}
-
 My younger sister, a marathon runner, drove down from Southern Oregon to join me on World IBD Day for the Bay to Breakers 12K run across San Francisco. Race day started out cold and wet as rain and thunder filled the early morning (along with some flooding over 101). Luckily, by the time the gun went off the rain had stopped, and shortly into the 7.4 mile run I dried off and enjoyed the party. My B2B performance was not my best run but it was the furthest, and despite a very slow 10+ minute mile time, I finished in the top 40th percentile. For comparison, my sister finished 2nd in her division, 7th for her gender and 65th overall!
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2380893285/embed/e4fb123dd307fbea9c99182ee36cc11632057376'></iframe>
+
+{{< figure src="https://res.cloudinary.com/airjoshb/image/upload/v1558400916/step_one_bay-to-breakers-collage.jpg" title="Bay to Breakers 2019" attr="" attrlink="" >}}
 
 Bay to Breakers was only my second run-only race and was quite a bit more difficult than my 10K at the Santa Cruz Half Marathon. I would have liked to have a stronger run, but between the early morning (and MCT/Coffee) and the pre-race soaking and shivering for an hour-and-a-half before the gun, the Hayes Hill about tore me apart. The main part of the climb is a half-mile long hill that averages about 10% grade. 
 
