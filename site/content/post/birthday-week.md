@@ -6,7 +6,7 @@ image: step_one_autoimmune-avenger.jpg
 categories: ['health', 'training']
 tags: ['autoimmune disease', 'Crohn's', 'ostomy', 'ketones', 'ketogenic']
 ---
-My birthday week was quite a blur, from receiving biopsy results that my Crohn's is in deep remission to an infusion to running the Bay to Breakers in a rainstorm. Forty-five is already reminding me that I am alive and WELL!
+My birthday week was quite a blur, from receiving biopsy results that my Crohn's is in deep remission, to an infusion, to running the Bay to Breakers in a rainstorm. Forty-five is already reminding me that I am alive and WELL!
 
 ### Starting at the Top
 My one year checkup (since my 16th surgery) showed no active disease, no inflammation and biopsy confirmed deep remission. My gastro was grinning ear to ear after the colonoscopy and after giving the great news said, "I never expected this, someone as sick as you were doesn't really go into remission."
