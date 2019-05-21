@@ -17,6 +17,7 @@ figure {
     width: 40%;
     position: relative;
     margin-right: 5%;
+    margin-top: 5%;
 }
 figure img { @apply .w-full;}
 #post #body p, #update p, #body ul, #post #body ol, .update p { @apply .mb-3; @apply .font-serif; }
