@@ -3,6 +3,7 @@ title: Forty-five
 date: 2019-05-20T19:36:11.000Z
 description: One week in and I am already being reminded that I am alive and WELL!
 image: step_one_autoimmune-avenger.jpg
+categories: 'health'
 
 ---
 My birthday week was quite a blur, from receiving biopsy results that my Crohn's is in deep remission, to an infusion, to running the Bay to Breakers in a rainstorm. Forty-five is already reminding me that I am alive and WELL!
