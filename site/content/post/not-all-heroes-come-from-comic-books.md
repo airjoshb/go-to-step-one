@@ -1,6 +1,6 @@
 ---
 title: Not All Heroes Come From Comic Books
-date: date +"%Y-%m-%dT%H:%M:%S.000Z"
+date: 2019-05-22T12:34:43.000Z
 description: A review of A Hero Born, one of China's most famous wuxia sagas, in english for the first time.
 image: step_one_a-hero-born-tor-dot-com.png
 categories: ['books']
