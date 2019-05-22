@@ -1,0 +1,15 @@
+---
+title: Not All Heroes Come From Comic Books
+date: date +"%Y-%m-%dT%H:%M:%S.000Z"
+description: A review of A Hero Born, one of China's most famous wuxia sagas, in english for the first time.
+image: step_one_a-hero-born-tor-dot-com.png
+categories: ['books']
+tags: ['reviews', 'wuxia',  'China', 'fiction']
+---
+*The Legends of the Condor Heroes* took over sixty years to find its way to western shores, but the impacts of Louis Cha's (Jin Yong is his pen name) sweeping historical *wuxia* series have been trickling into American culture since the Shaw Brothers began making martial arts movies in the seventies. Everything from *Crouching Tiger, Hidden Dragon* to *The Matrix* has been influenced by the dynamic characters, intricate fight sequences and mythical abilities of Cha's, *Legends of the Condor Heroes* trilogy.
+
+The first book in the series, *A Hero Born*, begins during the Jin-Song wars of the 12th century, when the Jurchen were invading the southern Song and a young Temüjin (Ghengis Khan) was preparing to unite the tribes of Mongolia. The story follows Guo Jing, the son of a murdered Song patriot, who is raised with Temüjin's army. Guo's fate becomes twisted from growing up as a second generation of sworn brothers when his father and best friend were murdered and their pregnant wives separated. An unfortunate run-in between a Taoist—sworn to train the two sons—and The Seven Heroes of the South, split the destinies of the unborn sons only to force them to face each other in combat when they become grown men.
+
+The english publisher describes the *Legends of the Condor Heroes* as the Chinese *Lord of the Rings* and *Game of Thrones*, but doing so creates expectations in the western reader that can not be fulfilled by Cha's work. I think it would be more accurate to describe the seminal series as a *Marvel Universe* rooted in the history of one of the oldest civilizations. The characters and their powers of strength and wisdom feel more like western superheroes than a fantasy-world made up of imaginary kingdoms and races. Cha's China is real, filled with men and women of exceptional skills and abilities, fighting for honor—or greed and revenge—as classic heroes and villains.
+
+The task of translating this work into english must have been as dizzying for Anna Holmwood as the fast-moving action of the plot itself. The book unfolds at breakneck speed across two decades, filling your mind with ballet-like choreography and historical context as effectively as any action movie. Holmwood's notes following the story provide context in her choices in translation as well as more context on the communities of *wuxia* (martial artists) as *wulin* (a collection of heroes bound by a code of martial arts) and *jianghu* (more like a society of gangsters). I have rarely had more fun reading a novel and look forward to the rest of the dynasty-spanning epic, as well as revisiting the stories often.
