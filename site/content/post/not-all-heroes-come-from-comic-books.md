@@ -3,7 +3,7 @@ title: Not All Heroes Come From Comic Books
 date: 2019-05-22T12:34:43.000Z
 description: A review of A Hero Born, one of China's most famous wuxia sagas, in english for the first time.
 image: step_one_a-hero-born-tor-dot-com.png
-categories: ['books']
+categories: 'books'
 tags: ['reviews', 'wuxia',  'China', 'fiction']
 ---
 *The Legends of the Condor Heroes* took over sixty years to find its way to western shores, but the impacts of Louis Cha's (Jin Yong is his pen name) sweeping historical *wuxia* series have been trickling into American culture since the Shaw Brothers began making martial arts movies in the seventies. Everything from *Crouching Tiger, Hidden Dragon* to *The Matrix* has been influenced by the dynamic characters, intricate fight sequences and mythical abilities of Cha's, *Legends of the Condor Heroes* trilogy.
