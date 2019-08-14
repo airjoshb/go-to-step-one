@@ -6,7 +6,6 @@ description: >-
 image: episode-ix.png
 categories: 'cinema'
 tags: 'star wars'
-toc: true
 resources:
     - src: "episode-one.md"
     - src: "episode-two.md"

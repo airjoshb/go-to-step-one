@@ -25,6 +25,17 @@
               <circle cx="10" cy="10" r="8" stroke="transparent" fill="brand"></circle>
             </svg>
           </div>
+          {{ with .Resources.ByType "page" }}
+            <div class="my-4"> 
+              <ol>
+                <h5>Table of Contents</h5>
+                <li>Beginning</li>
+                {{ range . }}
+                 <li><a href="#{{ .File.BaseFileName }}">{{ .Title }}</a></li>
+                {{ end }}
+              </ol>
+            </div>  
+          {{ end }}
         </div>
         <div class="flex flex-col w-3/4">
           <div class="bg-white shadow-lg leading-normal text-lg border-l-thick border-solid border-green-brand mb-4 p-5" id="body">
@@ -35,7 +46,7 @@
           </svg>
           {{ with .Resources.ByType "page" }}
             {{ range . }}
-              <div class="bg-white shadow-lg leading-normal text-lg border-l-thick border-solid border-green-brand p-5 mb-4" id="body">
+              <div class="bg-white shadow-lg leading-normal text-lg border-l-thick border-solid border-green-brand p-5 mb-4" id={{ .File.BaseFileName }}>
                 <h3 class="text-2xl leading-none">{{ .Title }}</h3>
                 <div class="italic text-sm">
                   {{ .Date.Format "Monday, January 2, 2006" }}

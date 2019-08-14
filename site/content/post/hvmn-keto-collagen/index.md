@@ -5,6 +5,8 @@ description: I got my hands on some of HVMN's new Keto Collagen+ and promptly ad
 categories: ["health", "training"]
 tags: ['keto', 'ketogenic', 'reviews']
 image: step_one_hvmn-keto-collagen.jpg
+resources:
+    - src: "tahini-cocoa-bombs.md"
 ---
 The team at HVMN has been hard at work overhauling their product line since making the switch from "Nootrobox" to a performance-based supplement and food (nutrient?) company at the end of 2018. Coming off a successful launch of their Ketone Ester, HVMN announced new fasting and recovery-focused products. It has taken most of the year to get the new stuff out, but my pre-order of Keto Collagen+ arrived and tl;dr, it was worth the wait.
 

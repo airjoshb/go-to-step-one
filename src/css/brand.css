@@ -13,8 +13,8 @@ figcaption h4 {@apply .mr-2;}
 figure {
     float: left;
     clear: left;
-    margin-left: -40%;
-    width: 40%;
+    margin-left: -35%;
+    width: 35%;
     position: relative;
     margin-right: 5%;
     margin-top: 5%;
@@ -33,6 +33,8 @@ figure img { @apply .w-full;}
     font-weight: bold;
     @apply .font-sans;
 }
+#blog ol { padding-left: 0; list-style-type: upper-roman; list-style-position: inside;}
+#blog ol li {padding: .3rem 0 .3rem;}
 header img {  
     -webkit-transform: translate(-10%, -10%);
     transform: translate(-10%, -10%);
