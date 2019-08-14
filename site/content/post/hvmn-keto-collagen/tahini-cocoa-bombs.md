@@ -7,7 +7,7 @@ This is an adaptation of my go-to snack which is insanely satisfying and guarant
 
 The HVMN Keto Collagen+ gives a high-performance boost over my usual cocoa powder and simplified the recipe—skipping my own sweetener blend, prebiotic fiber—and adds MCTs for more energy production. I hope you enjoy my favorite snack and hit me up [@airjoshb](https://twitter.com/airjoshb) to let me know what you think!
 
-**Why Tahini?**
+#### Why Tahini?
 Tahini is made from ground sesame seeds and while not as popular as other nut or seed butter, hold significant advantages for people wanting to train or upgrade their daily health (especially for autoimmune/immune compromised). Here are my top 5 reasons for using tahini:
 
 1. Higher in fats and amino acids than other butter, especially tryptophan (serotonin boost), methionine (important sulfur amino promotes cell methylation) and lysine (vital for protein synthesis).
@@ -16,7 +16,7 @@ Tahini is made from ground sesame seeds and while not as popular as other nut or
 4. Minimal processing. Compared to other nuts and seeds, sesame seeds require little processing, meaning fewer chances to degrade the quality and add in other unwanted toxins or chemicals.
 5. Boosts nutrient absorption. Studies have shown higher levels of nutrients gained from other foods when also consuming sesame seeds.
 
-**What about the other ingredients?**
+#### What about the other  ingredients?
 Almond and coconut flour are a solid base for all kinds of grain-free things with good fiber and protein content. The acacia fiber in the HVMN product replaces my usual prebiotic fiber in the recipe, which I add to make the snack easier on your belly, supporting good digestion and protecting your gut.
 
 Coconut oil is a great source of fats and contains a lot of medium-chain triglyceride fats which can get burned immediately as energy from the liver.
@@ -25,7 +25,7 @@ Cocoa is a superfood, a potent source of antioxidants and offering a ton of grea
 
 Even with the Keto Collagen+ on board I still use collagen because the gelling power (which peptides don't have) is going to help hold these cocoa bombs together and keep the oiliness to a minimum.
 
-**Dropping Bombs**
+#### Dropping Bombs
 
 > 60g organic tahini
 > 100g almond flour
