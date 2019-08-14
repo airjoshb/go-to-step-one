@@ -1,7 +1,9 @@
 <li class="inline-block">
   <a href="{{.link}}" class="px-2 pt-2 pb-3 link bg-white rounded-full relative">
-    <svg width="24px" height="22px" class="fill-brand align-middle">
-      <use xlink:href="#{{.svg}}"></use>
-    </svg>
+    <object width="24px" height="22px" class="fill-brand align-middle" type="image/svg+xml" data="{{ .svg }}">
+      <svg width="24px" height="22px" class="fill-brand align-middle">
+        <use xlink:href="#{{.svg}}"></use>
+      </svg>
+    </object>
   </a>
 </li>
