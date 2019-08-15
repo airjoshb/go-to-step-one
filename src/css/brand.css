@@ -8,7 +8,7 @@ body {
     font-display: fallback;
     -webkit-font-smoothing: antialiased;
 }
-h1, h2, h3, h4, h5, h6, p { @apply mb-3; }
+h1, h2, h3, h4, h5, h6, p, ul, ol { @apply mb-3; }
 figcaption { @apply .text-xs; @apply .font-serif; @apply .w-3/4; @apply .italic; }
 figcaption h4 {@apply .mr-2;}
 figure {
