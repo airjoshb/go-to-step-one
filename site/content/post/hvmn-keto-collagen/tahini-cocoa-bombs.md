@@ -28,12 +28,19 @@ Even with the Keto Collagen+ on board I still use collagen because the gelling p
 #### Dropping Bombs
 
 > 60g organic tahini
+
 > 100g almond flour
+
 > 20g coconut flour
+
 > 3 scoops (60g) HVMN Keto Collagen+, chocolate flavor
+
 > 60g organic coconut oil 
+
 > 10g grass-fed collagen, not peptides (bloomed in cold water)
+
 > 2 tbsp cocoa nibs (optional)
+
 > Pinch of Himalayan pink salt (or sea salt)
 
 Add the tahini to a small pot along with the collagen and heat just long enough for it to dissolve and mix in. Turn off and let cool a bit. The mixture will be pretty gummy, but if it is too warm it will melt the coconut oil when you add it.
