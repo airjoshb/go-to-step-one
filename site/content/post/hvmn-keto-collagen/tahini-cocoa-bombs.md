@@ -44,4 +44,4 @@ Add in the collagen, tahini mixture and turn on the processor until everything b
 
 I use a small ice cream scoop and make 9-10 balls that I put on a plate and put in the fridge to harden. Keep in the fridge and eat as you wish! If you are going to take these with you on a trip or to work, I recommend wrapping them up and freezing them as they will get a tad oily when they get warm. 
 
-Don't forget to pick up your Keto Collagen+ with this link ([https://hvmn.com/keto-collagen-plus/?r=kzbhpeln](https://hvmn.com/keto-collagen-plus/?r=kzbhpeln)) and we will both get $15 credit!
+Don't forget to pick up your Keto Collagen+ with this link ([https://hvmn.com/keto-collagen-plus/?r=kzbhpeln](https://hvmn.com/keto-collagen-plus/?r=kzbhpeln)) and get a $15 credit!
