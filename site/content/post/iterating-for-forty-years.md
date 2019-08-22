@@ -2,8 +2,8 @@
 title: Iterating for Forty Years
 date: 2019-08-21T17:22:10.000Z
 description: I have a fascination with how businesses manage what's on the shelf and how that affects their approach to merchandising, this comic book shop guru showed me the ways.
-categories: "entrepreneurship"
-tags: ['mastery]
+categories: 'entrepreneurship'
+tags: ['mastery']
 image: step_one_atlantis-fantasyworld-comics.jpg
 ---
 I am pretty sure that you can count the number of comic book shops that have been in business for almost four decades on one hand (maybe even one finger!) and if that is a rare breed, Joe Ferrara of Atlantis Fantasyworld in Santa Cruz is rarer still.
