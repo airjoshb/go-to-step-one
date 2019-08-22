@@ -6,7 +6,7 @@ categories: 'entrepreneurship'
 tags: ['mastery']
 image: step_one_atlantis-fantasyworld-comics.jpg
 ---
-I am pretty sure you can count the number of comic book shops that have been in business for almost four decades on one hand (maybe even one finger!) and if that is a rare breed, Joe Ferrara of Atlantis Fantasyworld in Santa Cruz is rarer still.
+I am pretty sure you can count the number of comic book shops that have been in business for almost four decades on one hand (maybe even one finger!) and if that is a rare breed, Joe Ferrara of [Atlantis Fantasyworld](http://www.atlantisfantasyworld.com/) in Santa Cruz is rarer still.
 
 *This story was originally [published](https://medium.com/@airjoshb/what-could-you-learn-if-you-iterated-your-business-for-forty-years-9f3e178ffc3a) in 2014, I dusted it off and cleaned it up after reading a recent Roden Explorers Club on ["mastery"](https://craigmod.com/roden/029/), from Craig Mod.*
 
