@@ -22,9 +22,9 @@ In a previous life, I built an e-commerce platform specifically to help business
 What you sell doesn't matter the most, it is primarily a means to some consumer need that you'll never understand at a personal level. Stuff is easy to come by and can be bought anywhere, there are millions of tools, apps, gadgets, and toys to satisfy any need. And everything can be replaced.
 What are you selling? Yourself, your ethos, an experience, and often a sense of community. Joe shared several stories about experiences with customers over the years that shaped his business practices that can be boiled down to this:
 
-> Treat your loyal customers extra special because they come back and tell others.
-> Treat new customers like loyal customers because they may have heard how awesome you were from a loyal customer and thus have high expectations.
-> Treat bad customers like loyal customers because if you make them happy, even if they never come back, they will tell others how awesome you are.
+*  Treat your loyal customers extra special because they come back and tell others.
+*  Treat new customers like loyal customers because they may have heard how awesome you were from a loyal customer and thus have high expectations.
+*  Treat bad customers like loyal customers because if you make them happy, even if they never come back, they will tell others how awesome you are.
 
 ### The biggest job
 Joe gave me a little quiz, "In this whole store, what do you think my biggest job is?"
