@@ -1,7 +1,7 @@
 ---
 title: Iterating for Forty Years
 date: 2019-08-21T17:22:10.000Z
-description: I have a fascination with how businesses manage what's on the shelf and how that affects their approach to merchandising, this comic book shop guru showed me the ways.
+description: I have a fascination with how businesses manage what's on the shelf, this comic book shop guru showed me the ways.
 categories: 'entrepreneurship'
 tags: ['mastery']
 image: step_one_atlantis-fantasyworld-comics.jpg
