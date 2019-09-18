@@ -1,7 +1,7 @@
 ---
 title: Lucky Number 17
 date: 2019-09-18T14:16:49.000Z
-description: Tomorrow, I wil have my seventeenth surgery related to complications from Crohn's, but this time it is on my own terms.
+description: Tomorrow, I wil have my seventeenth surgery related to complications from Crohn's, but this time it's on my own terms.
 image: josh-alc-finish-bnw.jpg
 categories: "Crohn's"
 tags: ['crohns','autoimmune']
