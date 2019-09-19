@@ -3,7 +3,7 @@ title: Lucky Number 17
 date: 2019-09-18T14:16:49.000Z
 description: I'm having my seventeenth surgery related to complications from Crohn's, but this time it's on my own terms.
 image: josh-alc-finish-bnw.jpg
-categories: "Crohn&#39;s"
+categories: "Crohn's"
 tags: ['crohns','autoimmune']
 ---
 
