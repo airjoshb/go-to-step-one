@@ -1,7 +1,7 @@
 ---
 title: Successful Surgery
 date: 2019-09-20T15:13:37.280Z
-image: step_one_new-ostomy.jpg
+image: ''
 ---
 +1 for athletic training for #crohns 👉 ostomy move was 💯, surgeon noting muscle/fascia were very healthy, allowing them to close w/o synth mesh
 
