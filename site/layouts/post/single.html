@@ -38,6 +38,21 @@
           {{ end }}
         </div>
         <div class="flex flex-col w-full">
+          {{ with .Site.GetPage "gear" }}
+            {{ range $gear, $gear := .Resources.Match (string ($.Params.gear)) }}  
+                <div class="bg-white shadow-lg font-serif text-brand text-lg  mb-4 p-5 flex-row flex">
+                  <div class="w-1/5 h-24" >
+                    <img src="{{ .Params.image }}" class="h-24" /> 
+                  </div>  
+                  <div class="w-4/5 pl-4">
+                    <h4>Gear ::
+                    <a href="{{ .Params.link }}">{{ .Title }}</a>
+                    </h4>
+                    <p>{{ .Content }}</p>
+                  </div>
+                </div>
+              {{ end }}
+          {{ end }}
           <div class="bg-white shadow-lg leading-normal text-lg border-l-thick border-solid border-green-brand mb-4 p-5" id="body">
             {{ .Content }}
           </div>

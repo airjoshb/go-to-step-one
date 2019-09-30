@@ -5,6 +5,8 @@ description: I got my hands on some of HVMN's new Keto Collagen+ and promptly ad
 categories: ["health", "training"]
 tags: ['keto', 'ketogenic', 'reviews']
 image: step_one_hvmn-keto-collagen.jpg
+gear: 
+   keto-collagen.md
 resources:
     - src: "tahini-cocoa-bombs.md"
 ---

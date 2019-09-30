@@ -1,7 +1,7 @@
 import React from "react";
 import format from "date-fns/format";
 
-export default class UpdatePreview extends React.Component {
+export default class GearPreview extends React.Component {
   render() {
     const {entry, widgetFor, getAsset} = this.props;
     let image = getAsset(entry.getIn(["data", "image"]));
@@ -18,6 +18,7 @@ export default class UpdatePreview extends React.Component {
         <p>Read in x minutes</p>
       </div>
       <div className="cms mw6">
+        <p>{ entry.getIn(["data", "link"]) }</p>
         { image && <img src={ image } alt={ entry.getIn(["data", "title"])} /> }
         { widgetFor("body") }
       </div>
