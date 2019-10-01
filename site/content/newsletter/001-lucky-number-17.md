@@ -6,7 +6,7 @@ image: step_one_escape-plan.jpg
 ---
 Hello from Santa Cruz,
 
-We often say taking the first step is the hardest and while that is often true, I think it is relative to the journey. Sometimes continuing to take each step forward feels more difficult than the initial leap.
+We say taking the first step is the hardest and while that is often true, I think it is relative to the journey. Sometimes continuing to take each step forward feels more difficult than the initial leap.
 
 Seven days home from major surgery [[read more](https://www.gotostepone.com/post/lucky-number-seventeen/)] with an unknown timeline for recovery, I am playing the not-too-compatible roles of patient and nurse, caring for my wounds whilst trying not to let my feelings overwhelm my caring. 
 
