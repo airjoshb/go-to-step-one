@@ -4,7 +4,6 @@ date: 2019-10-01T10:56:07.000Z
 edition: "001"
 image: step_one_escape-plan.jpg
 ---
-Hello from Santa Cruz,
 
 We say taking the first step is the hardest and while that is often true, I think it is relative to the journey. Sometimes continuing to take each step forward feels more difficult than the initial leap.
 
@@ -33,6 +32,3 @@ You will come to find out that I am a fan of great coffee, this week I received 
 Until next time,
 
 Joshua
-
-
-You are receiving this email because you have opted at some point in the past at gotostepone.com, if you wish to stop receiving these emails, just hit reply and let me know. If you know someone you think would enjoy them, please pass them along.
