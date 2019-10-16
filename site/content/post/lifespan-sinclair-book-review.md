@@ -30,6 +30,7 @@ We have a long way to go before we start thinking of ourselves as Dorian Gray, b
 While the optimal blend of activation or suppression of the longevity pathways still needs a ton of research, there is evidence showing that intervening on these three fronts can increase health, reverse disease, and potentially lengthen lifespan. Interventions include fasting, diet, exercise, cold exposure, and limiting exposure to toxins and chronic stress states, along with supplements like NR/NMN, metformin, Rapamycin, and Resveratrol. 
 
 Here are a few podcasts that can help you go deeper,
+
 * [Tim Ferriss Podcast #193](https://tim.blog/2016/10/20/my-life-extension-pilgrimage-to-easter-island/) - Learn all about mTOR.
 * [David Sinclair on The Drive #70](https://peterattiamd.com/davidsinclair2/) - Peter Attia avoids rehashing everything from the book, spending more time on the science, and allowing Sinclair to describe the difference between cellular reset and stem cells.
 * [HVMN Podcast](https://hvmn.com/podcast/lifespan-david-sinclair) - Geoffrey Woo's book review touches on what he agrees with, what he doesn't, and what is missing in the conversation with ketones. 
@@ -41,6 +42,7 @@ My interest in anti-aging began after spending years battling an off-the-rails a
 One day while on a webinar with Dean Kalish, a Functional Medicine practitioner and creator of the Kalish Institute, who was describing how cellular health and dysfunctional neurotransmitters are upstream issues for inflammation and dysfunctional gut, a light bulb went off. Whether causal or corollary, it is impossible to have chronic disease and inflammation without significant cellular/mitochondrial damage. I turned my focus to anti-aging because that is where the most cutting edge research and treatment for inflammation and cellular health is happening. I began measuring, tracking, and implementing my own protocols based on dozens of biomarkers, genetic information, and microbiome data.
 
 After more than half a decade hacking my Crohn's with strategies not even on the radar of GI doctors or experts on leaky gut and IBD, I was declared in deep remission, confirmed by biopsy. I can draw a straight line from remission through the pathways described by Sinclair,
+
 * reducing mTor and stimulating autophagy by fasting and training as a cyclist
 * activating sirtuins with training, ketosis, fasting, and repairing my body's ability to synthesize protein
 * activating AMPK by training, ketosis, and improving protein synthesis
