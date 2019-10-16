@@ -1,10 +1,10 @@
 ---
 title: Why Bother Aging? A look at Lifespan
 date: 2019-10-16T13:31:05.000Z
-description: A review of the new book, Lifespan: Why We Age – and Why We Don’t Have To and how I used anti-aging techniques to put my Crohn's disease into remission.
-image: step_one_lifespan.jpg
+description: "A review of the new book Lifespan: Why We Age and Why We Don’t Have To, and how I used anti-aging techniques to put my Crohn's disease into remission."
 categories: ['health', 'crohns', 'books']
-tags: ['longevity', 'crohns', 'autoimmune disease', 'reviews']
+tags: ['longevity', 'crohns', 'reviews']
+image: step_one_lifespan.jpg
 ---
 
 In *[Lifespan: Why We Age – and Why We Don’t Have To](https://amzn.to/2MbSH7R)*, David Sinclair Ph.D., Harvard Medical School professor and Co-Director of the Paul F. Glenn Center for the Biological Mechanisms of Aging, tells a story about what we've learned and where we're headed with regards to aging, the one malady that affects us all. With the book, Sinclair is clearly trying to get a message out, if we look at aging as a disease, it opens a floodgate of potential funding into research and treatments that would have a dramatic impact on all-cause mortality. Advances made in aging could provide breakthroughs for some of the most heavily funded and researched diseases, cardiovascular disease, cancer, Alzheimer's, and Parkinson's. Lifespan isn't quite a manifesto, but Sinclair is clearly aiming to give us a jumpstart on the future by bringing us up to speed and setting the stage for what's at stake.
