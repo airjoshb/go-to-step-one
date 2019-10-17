@@ -18,7 +18,8 @@ On the subject of things to be afraid of, Malka Older, Ph.D. ([@m_older](https:/
 <hr />
 Most of my time spent listening was in support of my review of Lifespan, but if you haven't discovered the *Broken Record* podcast with Malcolm Gladwell and Rick Rubin, their new season is up, kicking off with [Jack White & Brendan Benson of the Raconteurs](https://pca.st/qmhemz6h). Also, check out past seasons for great conversations with incredible musicians and two people you'd never think would hang out together.
 <hr />
-<img src="https://images.squarespace-cdn.com/content/v1/56abf10162cd94e9880a2561/1568925813558-7BKFSS57FVEI4ZLVVS69/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/mexican_la_cascada.jpg?format=300w" />
+<img src="https://res.cloudinary.com/airjoshb/image/upload/v1571277340/mexican_la_cascada_ihnxmg.png" />
+
 Saturday we had a Mexican coffee standoff between the Andytown from my last email and another coffee from Chiapas, roasted by my favorite, Noble Coffee from Ashland, Oregon. The Andytown seemed to be the crowd favorite, but what makes the [La Cascada from Noble](https://noblecoffeeroasting.com/coffee/mexican-la-cascada) special is that it is from a single varietal and a single farmer. Typically single-origin coffees contain a mix of beans from farmers in the co-op.
 
 Until next time, 
