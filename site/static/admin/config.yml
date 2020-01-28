@@ -1,8 +1,8 @@
 backend:
   name: git-gateway
   repo: airjoshb/go-to-step-one
-media_folder: "site/static/img" # Folder where user uploaded files should go
-public_folder: "img"
+# media_folder: "site/static/img" # Folder where user uploaded files should go
+# public_folder: "img"
 logo_url: "/img/step-one-icon.svg"
 
 media_library:
