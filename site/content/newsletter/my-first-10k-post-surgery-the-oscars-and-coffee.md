@@ -34,4 +34,4 @@ Until next time!
 
 p.s. I started roasting coffee. Interested?
 
-![fresh roasted coffee](/gonna-need-more-coffee.jpg)
+![fresh roasted coffee](https://res.cloudinary.com/airjoshb/image/upload/t_preview_size/v1580939568/gonna-need-more-coffee.jpg)
