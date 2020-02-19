@@ -1,6 +1,6 @@
 ---
-title: Bessie to Brussels 12K
-date: 2020-02-16T14:31:25.000Z
-image: bessie-to-brussels-12k.jpg
+title: Natural Movement on HVMN
+date: 2020-02-17T14:31:25.000Z
+image: hvmn-natural-movement.png
 ---
-Longest run ever, which I affectionately called, The Bessie to Brussels [Sprouts] 12K 🥳🎉 totally on track for my 1/2 marathon in March! #zerotohalfmarathon #autoimmuneathlete #crohns #ostomy  https://strava.app.link/C0LvlzYS83
+I listened to this episode on how natural movement trumps working out in the gym while running in the Santa Cruz mountains. I found myself taking more opportunities to run/jump through obstacles meant for mountain bikers, work my way around grazing cows, and across creeks. Give it a go! https://pca.st/huagxk2f
