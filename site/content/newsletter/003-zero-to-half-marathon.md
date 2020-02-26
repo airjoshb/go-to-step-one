@@ -45,4 +45,6 @@ And lest I take my half-marathon too seriously, [*You’re Training for a Half-M
 
 'Til Tuesday!
 
+- Joshua
+
 p.s. If you haven't filled out my [survey](https://forms.gle/Hko8PbGbybtAB2Pv9), please take a minute as I am learning how to shape what I share with you.
