@@ -43,7 +43,7 @@ This [coffee](https://gorongosacoffee.com/collections/coffee) is saving a rainfo
 
 And lest I take my half-marathon too seriously, [*You’re Training for a Half-Marathon? Cool, I’m Doing Kegels*](https://www.mcsweeneys.net/articles/youre-training-for-a-half-marathon-cool-im-doing-kegels)
 
-'Til Tuesday!
+That's it for now! 'Til Tuesday,
 
 - Joshua
 
