@@ -1,15 +1,15 @@
 ---
 title: Zero to Half Marathon
 date: 2020-02-25T15:38:27.000Z
-image: step_one_zero-to-half-marathon.jpg
+image: /step_one_zero-to-half-marathon.jpg
 edition: '004'
 ---
 Happy Tuesday —
 
-One of my goals for 2020 is to run a half marathon, and while cycling continues to be my primary love, my aversion-turned-affinity for running has grown. Riding a bike is easy for me, but running has felt hard my whole life, and I never understood why. [*The Heart of a Swimmer vs. the Heart of a Runner*](https://www.nytimes.com/2019/04/03/well/move/heart-health-swimming-running-exercise.html) talks about how training in different sports actually changes the shape and operation of the heart. It makes sense, the more you specialize your training, the more your body adapts to that training. Last year I ran my first 10K as well as the [Bay to Breakers](https://www.gotostepone.com/post/birthday-week/), and I learned training to run pushes a much higher degree of fitness than I was getting with my bike.
+One of my goals for 2020 is to run a half marathon, and while cycling continues to be my primary love, my aversion-turned-affinity for running has grown. Riding a bike is easy for me, but running has felt hard my whole life, and I never understood why. [*The Heart of a Swimmer vs. the Heart of a Runner*](https://www.nytimes.com/2019/04/03/well/move/heart-health-swimming-running-exercise.html)  talks about how training in different sports actually changes the shape and operation of the heart. It makes sense, the more you specialize your training, the more your body adapts to that training. Last year I ran my first 10K as well as the [Bay to Breakers](https://www.gotostepone.com/post/birthday-week/), and I learned training to run pushes a much higher degree of fitness than I was getting with my bike.
 
 To illustrate, take a look at my fitness based on the Strava data I've built up for nearly four years.
-![training data view from Strava](https://res.cloudinary.com/airjoshb/image/upload/v1582676534/training-with-crohns.jpg)
+![training data view from Strava](https://res.cloudinary.com/airjoshb/image/upload/w_800/v1582676534/training-with-crohns.jpg)
 You can see the level of fitness from my first [Zero to 50 Mile Gran Fondo in 6 Weeks](https://medium.com/@airjoshb/couch-to-50-mile-gran-fondo-in-6-weeks-91b6a5b29cf5) experiment to the 550 SF to LA ride, my stint as a triathlete, versus any of the run focused training. I felt like a beast on the AIDS/Lifecycle ride, climbing 3,000 to 5,000 feet a day for a week on a single-speed bike, but this running thing is hard work!
 
 Equally important is recognizing the difference between training while my Crohn's was out of control and how it has changed since I sent it into remission. Looking at my fatigue over the Strava graph, the far left is at the same level as it is today, but now my fitness and fatigue are balanced.
@@ -30,6 +30,8 @@ If the above isn't your bag, check out a [heartful and amazing story](https://pc
 <hr />
 
 #### What I'm watching
+
+![star trek license plate](https://res.cloudinary.com/airjoshb/image/upload/t_license_plate,w_300/License%20Plates/step_one_5-year-mission.jpg)
 
 I've been enjoying the new Picard, written and produced by Michael Chabon, who wrote a [touching essay](https://www.newyorker.com/magazine/2019/11/18/the-final-frontier) about creating the show as his father was dying.
 
