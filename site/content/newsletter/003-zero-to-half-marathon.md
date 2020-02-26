@@ -1,7 +1,7 @@
 ---
 title: Zero to Half Marathon
 date: 2020-02-25T15:38:27.000Z
-image: /step_one_zero-to-half-marathon.jpg
+image: step_one_bay-to-breakers.jpg
 edition: '004'
 ---
 Happy Tuesday —
