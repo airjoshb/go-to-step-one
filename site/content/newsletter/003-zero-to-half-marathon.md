@@ -10,9 +10,8 @@ One of my goals for 2020 is to run a half marathon, and while cycling continues 
 
 To illustrate, take a look at my fitness based on the Strava data I've built up for nearly four years.
 ![training data view from Strava](https://res.cloudinary.com/airjoshb/image/upload/w_800/v1582676534/training-with-crohns.jpg)
-You can see the level of fitness from my first [Zero to 50 Mile Gran Fondo in 6 Weeks](https://medium.com/@airjoshb/couch-to-50-mile-gran-fondo-in-6-weeks-91b6a5b29cf5) experiment to the 550 SF to LA ride, my stint as a triathlete, versus any of the run focused training. I felt like a beast on the AIDS/Lifecycle ride, climbing 3,000 to 5,000 feet a day for a week on a single-speed bike, but this running thing is hard work!
 
-Equally important is recognizing the difference between training while my Crohn's was out of control and how it has changed since I sent it into remission. Looking at my fatigue over the Strava graph, the far left is at the same level as it is today, but now my fitness and fatigue are balanced.
+You can see the level of fitness from my first [Zero to 50 Mile Gran Fondo in 6 Weeks](https://medium.com/@airjoshb/couch-to-50-mile-gran-fondo-in-6-weeks-91b6a5b29cf5) experiment in 2016 to the 550 mile SF to LA ride and my stint as a triathlete, versus any of the run-focused training. I felt like a beast on the AIDS/Lifecycle ride, climbing 3,000 to 5,000 feet a day for a week on a single-speed bike, but this running thing is a lot of work!
 
 One thing to come out of the survey from my last newsletter is people are interested in following along with experiments and training, as they happen. So, [check out this Notion page](http://bit.ly/notion-half-marathon) compiling my "Zero to Half Marathon" training, including what I'm tracking besides just exercise (hint: sleep, meditation, and nutrition are as vital as getting after it).
 <hr />
