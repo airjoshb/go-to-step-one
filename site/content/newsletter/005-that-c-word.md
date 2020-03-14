@@ -18,9 +18,9 @@ If you are struggling with IBD or have family members or friends who are, I hope
 I found this game created as a fundraiser for hospitals in Wuhan, China that depicts walking through the city after people were forced to stay home. It is a haunting side-scrolling walk that moves through ghosts of the city. Like everything in life, you can only walk forward, through it.
 https://allanxia.itch.io/towards-the-enduring-light
 <hr />
-I saw **Onward** in the <gasp> theater this past weekend and it is a shame that more people probably won't get the chance. The plot would be difficult for some children, particularly those that have experienced loss, but the story, characters and world were fantastic and some great voice acting. Not in the upper-echelon of Pixar films, but like the world of Monsters, Inc., it was so much fun to be in and I would watch more stories set in it.
+I saw *Onward* in the <gasp> theater this past weekend and it is a shame that more people probably won't get the chance. The plot would be difficult for some children, particularly those that have experienced loss, but the story, characters and world were fantastic and some great voice acting. Not in the upper-echelon of Pixar films, but like the world of Monsters, Inc., it was so much fun to be in and I would watch more stories set in it.
 
-If you'd rather stay home, **Knives Out** is out on digital and blu-ray. Rian Johnson's contemporary take on an Agatha Christie mystery was my favorite film of last year and the home release includes some of the best extra content for a film in a while. The commentaries and full-length look at the making of the film are great ways to burn some of your in-house time.
+If you'd rather stay home, *Knives Out* is out on digital and blu-ray. Rian Johnson's contemporary take on an Agatha Christie mystery was my favorite film of last year and the home release includes some of the best extra content for a film in a while. The commentaries and full-length look at the making of the film are great ways to burn some of your in-house time.
 
 If you have more questions or concerns about IBD and COVID-19, please email me as I am happy to be of help if I can.
 
