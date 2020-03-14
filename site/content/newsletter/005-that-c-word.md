@@ -15,8 +15,9 @@ One of the best ways I know to deal with the stress of something is to write abo
 
 If you are struggling with IBD or have family members or friends who are, I hope you share it with them. If you don't have someone in the house with a compromised immune system, there is a lot of what I think is helpful information about keeping you boosted, and some resources that I think are credible in providing everything from health advice to scientific evaluation of the spread of the virus.
 <hr />
-I found this game created as a fundraiser for hospitals in Wuhan, China that depicts walking through the city after people were forced to stay home. It is a haunting side-scrolling walk that moves through ghosts of the city. Like everything in life, you can only walk forward, through it.
-https://allanxia.itch.io/towards-the-enduring-light
+I found [this game](https://allanxia.itch.io/towards-the-enduring-light) created as a fundraiser for hospitals in Wuhan, China that depicts walking through the city after people were forced to stay home. It is a haunting side-scrolling walk that moves through ghosts of the city. Like everything in life, you can only walk forward, through it.
+
+![toward the enduring light game](https://res.cloudinary.com/airjoshb/image/upload/v1584150006/wuhan-game_fjq3ex.jpg)
 <hr />
 I saw *Onward* in the <gasp> theater this past weekend and it is a shame that more people probably won't get the chance. The plot would be difficult for some children, particularly those that have experienced loss, but the story, characters and world were fantastic and some great voice acting. Not in the upper-echelon of Pixar films, but like the world of Monsters, Inc., it was so much fun to be in and I would watch more stories set there.
 
