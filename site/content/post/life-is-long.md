@@ -2,7 +2,7 @@
 title: Why saying "life is short" is a cop-out (and how to have a long life)
 date: 2020-03-24T15:22:25.000Z
 description: >-
-Life only feels short in retrospect - when we look back and reminisce about the time that has passed - it is actually an innumerable collection of moments.
+  Life only feels short in retrospect - when we look back and reminisce about the time that has passed - it is actually an innumerable collection of moments.
 categories: ['mindfulness']
 tags: ['mindfulness', 'meditation']
 image: step_one_life-is-short.jpg
