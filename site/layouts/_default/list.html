@@ -6,7 +6,7 @@
       <svg class="h-5 green-brand self-end mb-5" height="20" width="20"><circle cx="10" cy="10" r="8" stroke="transparent" fill="brand"></circle></svg>
     {{ end }}
     <div class="mb-16">
-      {{ range first 1 .Pages.ByPublishDate.Reverse }}  
+      {{ range first 1 .Pages.ByPublishDate.Reverse }}
         <a href="{{ .RelPermalink }}" class="shadow-none hover:shadow-none">
           {{ partial "text-and-image" (dict "heading" .Title "text" .Description "image" .Params.Image "imageclass" "shadow-lg hover:shadow-none border-r-8 h-64i border-solid border-green-brand" "textclass" "leading-tight mt-1 font-serif text-lg italic" "headingclass" "font-bold leading-none text-5xl font-serif text-brand capitalize") }}
         </a>
@@ -22,7 +22,7 @@
     <div class="lg:w-2/3 sm:w-full m-auto text-left flex flex-col">
       {{ if gt (.Pages.ByPublishDate.Reverse | len)  8 }}<h3 class="text-3xl text-brand font-bold border-b-8 border-solid border-green-brand">More</h3><svg class="h-5 green-brand self-end mb-3" height="20" width="20"><circle cx="10" cy="10" r="8" stroke="transparent" fill="brand"></circle></svg>{{ end }}
       {{ range after 9 .Pages.ByPublishDate.Reverse }}
-        {{ partial "short-text" (dict "heading" .Title "heading" .Description "date" .Date) }}
+        {{ partial "short-text" (dict "link" .RelPermalink "heading" .Title "heading" .Description "date" .Date) }}
       {{ end }}
     </div>
   </div>
