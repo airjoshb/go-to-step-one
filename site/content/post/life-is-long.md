@@ -7,7 +7,6 @@ categories: ['mindfulness']
 tags: ['mindfulness', 'meditation']
 image: step_one_life-is-short.jpg
 ---
-<small>This was originally posted on [Medium](https://medium.com/@airjoshb/why-life-is-short-is-a-cop-out-and-how-to-have-a-long-life-936c8c16e8cf?postPublishedType=repub) in 2017</small>
 
 We frequently hear and say these things that are supposed to be motivating and inspiring (or at least make us feel better about the choices made in the quest for happiness) but upon examination are simply glib sound bites designed to take you away from the best parts of being alive.
 
@@ -34,14 +33,14 @@ For the past five years, I have been through a roller coaster of Crohn's disease
 
 In a miraculous turn of events, over a six week period, I went from completely dependent on my doctors to no sign of disease and normal blood markers. I have been reflecting on the gravity of "five years" or half of a decade-all that I have experienced, all my kids have been through (now high schoolers), and the fortitude my fiancé was able to muster to hold us all together and keep me alive. Five years evaporated in a glimpse on a tiny speck in the universe and yet there were entire lifetimes of me (and my family) built and torn down during that same blink.
 
-These are all examples are life pulling us into the present, but we can find the extension of time in moments all over our lives. My bike was stolen on Monday, which had pretty much [saved my life](https://medium.com/@airjoshb/a-bicycle-beginner-s-mind-and-getting-superbetter-9dd9be6b918f) life, but I only owned it for a year. In that time I put nearly 2000 miles-countless worries and hundreds of hours into the pavement-and I can recall most of them. The easy reaction to my stolen bike was to be angry, sad and cynical but all I can think about is what a gift this bike was. 
+These are all examples are life pulling us into the present, but we can find the extension of time in moments all over our lives. My bike was stolen on Monday, which had pretty much [saved my life](https://medium.com/@airjoshb/a-bicycle-beginner-s-mind-and-getting-superbetter-9dd9be6b918f), but I only owned it for a year. In that time I put nearly 2000 miles — countless worries and hundreds of hours into the pavement — and I can recall most of them. The easy reaction to my stolen bike was to be angry, sad and cynical but all I can think about is what a gift this bike was. 
 
 > _Our age is measured in time, but the quality of our life is quantified in moments that made an impact on us._
 
 ### The Holy Grail of a Long Life
 We can experience a long life by being present for what is happening, good or bad, and not falling into the trap of the way things "should be". In a [60 Minutes Overtime with Anderson Cooper](https://www.cbsnews.com/news/mindfulness-anderson-cooper-60-minutes/) (registration required), one of the leading authorities on mindfulness, Jon Kabat-Zinn, said,
 
-> _"…everyone wants to figure out how to live longer, but [mindfulness] this actually is a very easy way for you to live longer. Maybe you're not extending your life, but you are present and living more of the moments of your life."_
+> "…everyone wants to figure out how to live longer, but [mindfulness] this actually is a very easy way for you to live longer. Maybe you're not extending your life, but you are present and living more of the moments of your life."
 
 Living more of the moments of your life means you lived longer and more fully with the time you were given, no matter how long, good or bad it felt. 
 
@@ -53,12 +52,12 @@ A search of Amazon shows over 25,000 books have been published since 2010 with t
 
 Google shows a clear trend in "mindfulness" taking off around the time that "optimism" peaked in 2008. Optimism has limited application, but the benefits of mindfulness are nearly boundless.
 
-![Google search for mindfulness](https://res.cloudinary.com/airjoshb/image/upload/v1585090587/step_one_google-mindfulness.png.png)
+<div>![Google search for mindfulness](https://res.cloudinary.com/airjoshb/image/upload/v1585090587/step_one_google-mindfulness.png.png)</div>
 
 ### You Can't Get There from Here
 The present is ethereal, only existing while you are in it, the moment you shine a light on "now" it dissipates like morning fog.
 
-> The one thing that the mind can not calculate or grasp, is the present.
+> _The one thing that the mind can not calculate or grasp, is the present._
 
 Live a long life by accumulating moments where you are present with what is, and when you realize you're mind has captured your attention, bring it back. The effects of mindfulness are compounding, the more time you spend in awareness (being mindful), the more you will experience it as a normal state of being. This doesn't mean you become aloof, it means that you show up, as often as possible, to your life. As Kabat-Zinn has put it,
 
@@ -77,4 +76,6 @@ There are countless resources to help you on your way,
 
 For learning more across all of these areas, I recommend listening to this recent [podcast](https://soundcloud.com/the-journal/soren-gordhamer-founder-of-wisdom-20) with the creator of [Wisdom 2.0](http://www.wisdom2summit.com/), [Soren Gordhamer](https://medium.com/u/f61304e15ce7) by [Kevin Rose](https://medium.com/u/f9d429098ec7) an entrepreneur, turned investor, turned biohacker and developer of the [Oak Meditation](https://www.oakmeditation.com/) app.
 
-***Update March 2020:*** *My daily meditation practice has been going on for over four years, in 2019 I was declared in "deep remission" by my Stanford doctors, and meditation and mindfulness is increasingly looking like the most important training for the 21st century.*
+<small>This was originally posted on [Medium](https://medium.com/@airjoshb/why-life-is-short-is-a-cop-out-and-how-to-have-a-long-life-936c8c16e8cf?postPublishedType=repub) in 2017</small>
+
+***Update March 2020:*** My daily meditation practice has been going on for over four years, in 2019 I was declared in "deep remission" by my Stanford doctors, and meditation and mindfulness is increasingly looking like the most important training for the 21st century.
