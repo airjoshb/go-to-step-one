@@ -52,7 +52,7 @@ A search of Amazon shows over 25,000 books have been published since 2010 with t
 
 Google shows a clear trend in "mindfulness" taking off around the time that "optimism" peaked in 2008. Optimism has limited application, but the benefits of mindfulness are nearly boundless.
 
-<div>![Google search for mindfulness](https://res.cloudinary.com/airjoshb/image/upload/v1585090587/step_one_google-mindfulness.png.png)</div>
+<div><img src="https://res.cloudinary.com/airjoshb/image/upload/v1585090587/step_one_google-mindfulness.png.png" alt="Google search for mindfulness"/></div>
 
 ### You Can't Get There from Here
 The present is ethereal, only existing while you are in it, the moment you shine a light on "now" it dissipates like morning fog.
@@ -76,6 +76,6 @@ There are countless resources to help you on your way,
 
 For learning more across all of these areas, I recommend listening to this recent [podcast](https://soundcloud.com/the-journal/soren-gordhamer-founder-of-wisdom-20) with the creator of [Wisdom 2.0](http://www.wisdom2summit.com/), [Soren Gordhamer](https://medium.com/u/f61304e15ce7) by [Kevin Rose](https://medium.com/u/f9d429098ec7) an entrepreneur, turned investor, turned biohacker and developer of the [Oak Meditation](https://www.oakmeditation.com/) app.
 
-<small>This was originally posted on [Medium](https://medium.com/@airjoshb/why-life-is-short-is-a-cop-out-and-how-to-have-a-long-life-936c8c16e8cf?postPublishedType=repub) in 2017</small>
+***This was originally posted on [Medium](https://medium.com/@airjoshb/why-life-is-short-is-a-cop-out-and-how-to-have-a-long-life-936c8c16e8cf?postPublishedType=repub) in 2017***
 
 ***Update March 2020:*** My daily meditation practice has been going on for over four years, in 2019 I was declared in "deep remission" by my Stanford doctors, and meditation and mindfulness is increasingly looking like the most important training for the 21st century.
