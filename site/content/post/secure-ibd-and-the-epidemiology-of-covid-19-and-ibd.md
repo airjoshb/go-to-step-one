@@ -19,4 +19,10 @@ When it comes to medications, only two patients (nearly one-third of all reporte
 
 I feel pretty good going into my Remicade infusion tomorrow, having this data. I mentioned in my [last post](/post/preparing-for-covid19-with-ibd/) that now is a terrible time to mess with what is working and having the Remicade on board may actually prove to be more of a protectant should I become infected with the coronavirus than my state of remission.
 
-One last little mystery from the data is, the death rate and serious complications jump to 3% and 15% respectively when the Anti-TNF is combined with 6MP or methotrexate, a common practice (I did not respond well to methotrexate at all). It would be interesting to get on the horn with an expert on this combination and see what is happening there.
+\**One last little mystery from the data is the death rate and serious complications jump to 3% and 15% respectively when the Anti-TNF is combined with 6MP or methotrexate, a common practice, though I did not respond well to methotrexate. It would be interesting to get on the horn with an expert on this combination and see what is happening there.*
+
+**Data :** \
+**Brenner EJ, Ungaro RC, Colombel JF, Kappelman MD.** \
+**SECURE-IBD Database Public Data Update.** \
+**covidibd.org.** \
+**Accessed on 04/20/20**
