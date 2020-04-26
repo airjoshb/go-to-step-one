@@ -19,7 +19,7 @@
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       {{ with .Site.Author.name }}<author>{{.}}{{ with $.Site.Author.twitter}} aka {{.}} {{end}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
-      <description>{{ .Summary | truncate 235 | html }}</description>
+      <description>{{ .Summary | truncate 500 | html }}</description>
       {{ if .Params.image }}
       <image>
         <url>https://res.cloudinary.com/airjoshb/image/upload/w_350,f_auto/{{ .Params.image}}</url>
