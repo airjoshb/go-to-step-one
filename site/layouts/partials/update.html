@@ -9,7 +9,7 @@
     {{ $.Scratch.Set "lastUpdatesDate" (.Date.Format "2 January 2006") }}
     <div class="flex flex-row flex-no-shrink w-3/4 mb-2 update border-b border-grey pb-2 mb-6">
         <div class="text-brand flex flex-col text-brand text-base font-serif italic text-center">
-            {{ if .Params.image }}<img src="https://res.cloudinary.com/airjoshb/image/upload/w_200,h_200,c_fill/{{ .Params.image }}" alt="{{ .Title }}" class="ml-2 mb-2 float-right inline" />{{ end }}        
+            {{ if .Params.image }}<img src="https://res.cloudinary.com/airjoshb/image/upload/c_fill,w_200,h_200/{{ .Params.image }}" alt="{{ .Title }}" class="ml-2 mb-2 float-right inline" />{{ end }}        
             <div>
                 <time>{{ .Date.Format "Monday ... 1pm" }}</time>
                 ~
