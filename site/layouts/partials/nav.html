@@ -6,7 +6,7 @@
     </div>
     <nav id="main" class="w-full text-right text-lg">
         <div class="border-t-4 border-solid border-brand relative py-1">
-            <div class="nav-link">    
+            <div class="nav-link">
                 <a href="/post" class="font-black text-brand">Posts</a>
             </div>
             {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
@@ -16,17 +16,11 @@
             {{ end }}
         </div>
 
-        <div class="border-t-4 border-solid border-brand relative py-1">
-            <div class="nav-link">    
-                <a href="/essay" class="text-brand font-black">Essays</a>
-        
-            </div>
-        </div>
 
         <div class="border-t-4 border-solid border-brand relative py-1">
-            <div class="nav-link">    
+            <div class="nav-link">
                 <a href="/#about" class="font-black text-brand font-black">About Joshua</a>
-        
+
             </div>
         </div>
         <li class="inline-block mt-4">
