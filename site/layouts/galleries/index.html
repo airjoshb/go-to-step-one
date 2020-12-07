@@ -1,0 +1,10 @@
+{{ define "main" }}
+  <div class="flex" id="gallery">
+    <div class="text-3xl font-normal text-green-brand text-right border-b-4 border-solid border-green-brand">{{ .Title }}</div>
+    <svg class="h-5 green-brand self-end mb-5" height="20" width="20"><circle cx="10" cy="10" r="8" stroke="transparent" fill="brand"></circle></svg>
+    <div class="w-3/4 m-auto overflow-hidden bg-white shadow-lg px-5 pt-8 pb-4" id="post">
+      {{< gallery dir="/img/" />}}`
+    </div>
+    {{ partial "nav" .}}
+  </div>
+{{ end }}
