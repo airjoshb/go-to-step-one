@@ -1,5 +1,5 @@
 ---
-title: Secure-IBD and the Epidemiology of COVID-19 and IBD
+title: Secure-IBD, the Epidemiology of COVID-19, and IBD
 date: 2020-04-21T01:13:40.607Z
 description: I take a look into the data of reported patients with IBD that have
   been diagnosed with the coronavirus.
