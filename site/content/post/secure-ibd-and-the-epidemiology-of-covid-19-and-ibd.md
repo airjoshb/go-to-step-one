@@ -5,7 +5,7 @@ description: I take a look into the data of reported patients with IBD that have
   been diagnosed with the coronavirus.
 image: /secure-ibd-website_ohbxv1.png
 ---
-The Secure-IBD project is an international effort being led by doctors at the University of North Carolina at Chapel Hill and Icahn School of Medicine at Mount Sinai, New York to act as a database of outcomes of COVID-19 occurring in patients with IBD. At their site, [](https://covidibd.org/)<https://covidibd.org/>, they are collecting data on reports of coronavirus cases as well as providing summaries of that data.
+The Secure-IBD project is an international effort being led by doctors at the University of North Carolina at Chapel Hill and Icahn School of Medicine at Mount Sinai, New York to act as a database of outcomes of COVID-19 occurring in patients with IBD. At their site, [https://covidibd.org](https://covidibd.org/), they are collecting data on reports of coronavirus cases as well as providing summaries of that data.
 
 If you have IBD and were diagnosed with coronavirus, you should encourage your doctor to fill out a report [here](https://global.redcap.unc.edu/surveys/?s=8LL398494N). The more data available, the more we can better predict how people with IBD will be impacted by the coronavirus.
 
