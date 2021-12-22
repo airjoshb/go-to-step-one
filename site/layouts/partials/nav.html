@@ -7,6 +7,12 @@
     <nav id="main" class="w-full text-right text-lg">
         <div class="border-t-4 border-solid border-brand relative py-1">
             <div class="nav-link">
+                <a href="/update" class="font-black text-brand">Updates</a>
+
+            </div>
+        </div>
+        <div class="border-t-4 border-solid border-brand relative py-1">
+            <div class="nav-link">
                 <a href="/post" class="font-black text-brand">Posts</a>
             </div>
             {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
@@ -19,7 +25,7 @@
 
         <div class="border-t-4 border-solid border-brand relative py-1">
             <div class="nav-link">
-                <a href="/#about" class="font-black text-brand font-black">About Joshua</a>
+                <a href="/#about" class="font-black text-brand">About Joshua</a>
 
             </div>
         </div>
