@@ -4,7 +4,7 @@ description: >-
   Two years ago I was put on Remicade, a TNFa immune blocker, to control my
   Crohn’s disease, until insurance decided to save a few bucks.
 date: '2019-02-22T23:11:12.068Z'
-categories: ['health', 'Crohns']
+categories: ['health', 'Crohn"'"s']
 tags: 'autoimmune disease'
 ---
 
