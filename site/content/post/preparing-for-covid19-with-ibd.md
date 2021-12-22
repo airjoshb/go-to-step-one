@@ -4,7 +4,7 @@ description: >-
     With Crohn's and Remicade infusions, I am at risk for having a more severe response to the coronavirus. This is how I'm preparing for COVID-19 in my house and my life.
 date: '2020-03-12T16:16:47.000Z'
 image: step_one_rainbows-in-dark-skies.jpg
-categories: ['Health', 'Crohns']
+categories: ['Health', 'crohn''s']
 tags: 'autoimmune disease'
 ---
 

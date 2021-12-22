@@ -2,8 +2,8 @@
 title: Why Bother Aging? A look at Lifespan
 date: 2019-10-16T13:31:05.000Z
 description: "A review of the new book Lifespan: Why We Age and Why We Don’t Have To, and how I used anti-aging techniques to put my Crohn's disease into remission."
-categories: ['health', 'crohns', 'books']
-tags: ['longevity', 'crohns', 'reviews']
+categories: ['health', 'crohn''s', 'books']
+tags: ['longevity', 'crohn''s', 'reviews']
 image: step_one_lifespan.jpg
 ---
 

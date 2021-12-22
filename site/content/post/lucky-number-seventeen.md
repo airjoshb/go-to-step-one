@@ -3,8 +3,8 @@ title: Lucky Number 17
 date: 2019-09-18T14:16:49.000Z
 description: I'm going in for surgery related to complications from Crohn's, but this time it's on my own terms.
 image: josh-alc-finish-bnw.jpg
-categories: "Crohns"
-tags: ['crohns','autoimmune']
+categories: "crohn''s"
+tags: ['crohn''s','autoimmune']
 ---
 
 They say that we have a lizard brain, but I know it's a lion—fierce and territorial—that emerges when there is nothing else to keep us safe.
