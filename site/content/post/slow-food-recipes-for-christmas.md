@@ -11,6 +11,7 @@ If you are a Medium member, you can [get a bonus recipe for a keto pumpkin pie](
 
 ### Chestnut Soup with Mushrooms
 SERVES 6-8 / PREP TIME: 5 MINUTES / COOK TIME: 15 MINUTES 
+
 This is one of the most satisfying soups I've ever eaten—rich and creamy with an umami boost from the mushrooms. A single cup is packed with over 30% of your daily vitamin A and is high in vitamin C & K, pre-biotic fiber, and beta-glucans from the mushrooms. It is also high in important minerals for protein synthesis like copper, manganese, potassium, and selenium. Net carbs come in around 10 grams, making it a reasonable low-carb addition to your meal.
 
 2 tablespoons olive oil
@@ -32,10 +33,11 @@ This is one of the most satisfying soups I've ever eaten—rich and creamy with 
 2. Add bone broth and set to 10 minutes on high pressure. When done, let the pressure resolve naturally. Add 2 teaspoons of salt and stir. Remove to a blender (in batches, if needed to not overfill your blender) and process until completely smooth, about 2-3 minutes.
 3. Return to the pot on the "Keep Warm" setting. Add cream, if using, or replace with a dollop of yogurt or coconut milk. Stir and season with salt, as needed. Serve in a warm bowl.
 
-Note: Making this in a pressure cooker will make it significantly faster but you can cook in a stock pot following the same procedure and cooking until the chestnuts and vegetables are soft.
+*Note: Making this in a pressure cooker will make it significantly faster but you can cook in a stock pot following the same procedure and cooking until the chestnuts and vegetables are soft.*
 
 ### Roasted Butternut Squash with Cranberries & Pomegranate
 SERVES 6-8 / PREP TIME: 10 MINUTES / COOK TIME: 45 MINUTES 
+
 This was my family's favorite dish of Thanksgiving and is a solid alternative for incorporating fresh cranberries into a holiday meal. The sweetness from the butternut squash balances out the tartness of the cranberries, which get a bit sweeter from the pomegranate. A serving of this roasted squash has 220% of your daily vitamin A, and is high in vitamin C & E. It is also has a great micro-nutrient profile as a great source of magnesium, potassium, copper, and manganese. Net carbs are slightly higher at about 14 grams per serving but can be reduced by a third by using balsamic vinegar and alternative sweetener instead of the pomegranate syrup.
 
 2 tablespoons Olive Oil
@@ -56,4 +58,5 @@ This was my family's favorite dish of Thanksgiving and is a solid alternative fo
 5. At the same 30 minute mark, use a spatula to flip the squash cubes over. Continue roasting untl edges have browned and the squash is cooked all the way through. Remove from the oven and sprinkle with more salt.
 6. Move the squash to a serving dish and mix in the cranberries. Crush the walnuts and sprinkle over the dish. Serve hot.
 
-Note: You can replace pomegranate molasses with 1 tablespoon each of balsamic vinegar and honey or maple syrup.
+*Note: You can replace pomegranate molasses with 1 tablespoon each of balsamic vinegar and honey or maple syrup.
+*
