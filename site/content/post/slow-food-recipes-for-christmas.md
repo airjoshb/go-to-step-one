@@ -1,6 +1,6 @@
 ---
 title: 2 Christmas Recipes To Keep Your Gut Happy
-date: 2021-12-22T16:38:11Z
+date: 2021-12-22T16:38:110Z
 description: Gut-healthy Slow Food recipes to help Christmas dinner feel as good as it tastes.
 image: /slow-food-christmas_t7y0sz.jpg
 categories: ['health', 'crohn''s', 'recipes']
