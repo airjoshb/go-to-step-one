@@ -6,5 +6,5 @@
   tz = "America/Los_Angeles"
 
 [context.deploy-preview]
-  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+  command = "hugo --buildDrafts --buildFuture"
 
