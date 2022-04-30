@@ -16,5 +16,3 @@ After a LOT of hard work (mostly getting out of my own way!), I'm so excited to 
 I'd love for you to support my book! You can pre-order your copy here: https://amzn.to/3jwOg7j
 
 Stay tuned, I'm pretty excited to share some sneak peeks in the coming weeks!
-
-#crohns #ibd #autoimmunedisease #crohnslife
