@@ -1,9 +1,10 @@
 [build]
-  command = "hugo"
-  publish = "dist"
+  publish = "public"
+  command = "hugo --gc --minify"
 [build.environment]
   HUGO_VERSION = "0.91.0"
   tz = "America/Los_Angeles"
 
 [context.deploy-preview]
-  command = "hugo"
+  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+
