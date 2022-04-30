@@ -1,8 +1,8 @@
 [build]
-  command = "npm run build"
+  command = "CI= npm run build"
   publish = "dist"
 [build.environment]
   tz = "America/Los_Angeles"
 
 [context.deploy-preview]
-  command = "npm run build-preview"
+  command = "CI= npm run build-preview"
