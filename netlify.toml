@@ -1,7 +1,8 @@
 [build]
-  command = "CI= npm run build"
+  command = "hugo"
   publish = "dist"
 [build.environment]
+  HUGO_VERSION = "0.91.0"
   tz = "America/Los_Angeles"
 
 [context.deploy-preview]
