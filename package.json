@@ -78,5 +78,8 @@
     "hugo-extended": "^0.98.0",
     "svg-sprite-loader": "^3.0.0",
     "tailwindcss": "^0.7.4"
+  },
+  "optionalDependencies": {
+    "fsevents": "^2.3.2"
   }
 }
