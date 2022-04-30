@@ -2,9 +2,9 @@
 title: Announcing, "Crohn's Disease AIP Cookbook"
 description: Cover Reveal of my new cookbook, Crohn's Disease AIP Cookbook!
 date: 2022-04-29T18:12:28.000Z
-image: /Crohn_sDiseaseAIPCookbook_9781638780403_FacebookBusiness_rzevcw.jpg
-categories: ['Health', 'crohn''s']
-tags: 'autoimmune disease', 'crohns','cookbook'
+image: Crohn_sDiseaseAIPCookbook_9781638780403_FacebookBusiness_rzevcw.jpg
+categories: ['Health', 'Crohn''s']
+tags: ['autoimmune disease', 'Crohn''s','cookbook']
 ---
 
 After a LOT of hard work (mostly getting out of my own way!), I'm so excited to finally announce that I have a new book coming out, "Crohn's Disease AIP Cookbook". 
