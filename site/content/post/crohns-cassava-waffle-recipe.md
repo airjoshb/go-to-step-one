@@ -15,11 +15,17 @@ Because of the high starch content, cassava flour makes a great waffle that cris
 ### Ingredients
 
 1 cup whole cassava flour
+
 2 tablespoons tigernut flour, coconut flour, or green banana flour
+
 1 scoop/serving grass-fed/ finished collagen peptides (leave out for vegan waffles)
+
 1 teaspoon baking powder 1/4 teaspoon baking soda
+
 1/4 teaspoon sea salt
+
 1 cup coconut milk (no gums or carrageenan)
+
 2 tablespoons avocado oil or melted coconut oil
 
 ### Steps
