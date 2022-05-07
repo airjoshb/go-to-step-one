@@ -10,6 +10,11 @@
     <div class="flex flex-row flex-no-shrink w-3/4 mb-2 update border-b border-grey pb-2 mb-6">
         <div class="text-brand flex flex-col text-brand text-base font-serif italic text-center">
             {{ if .Params.image }}<img src="https://res.cloudinary.com/airjoshb/image/upload/c_fill,w_200,h_200/{{ .Params.image }}" alt="{{ .Title }}" class="ml-2 mb-2 float-right inline" />{{ end }}        
+            
+        </div>
+        <div class="p-4 w-3/4 update text-lg leading-normal text-brand font-serif">
+            {{ .Content }}
+            <hr style="padding-top: 0; padding-bottom: 0; padding-right: 0; padding-left: 0; width: 90%; margin-top: 5px; margin-bottom: 05px; margin-right: 0; margin-left: 0; border-width: 0; border-top-width: 1px; border-top-style: solid; border-top-color: #777;" />
             <div>
                 <time>{{ .Date.Format "Monday ... 1pm" }}</time>
                 ~
@@ -21,9 +26,6 @@
                     </svg>
                 </a>
             </div>
-        </div>
-        <div class="p-4 w-3/4 update text-lg leading-normal text-brand font-serif">
-            {{ .Content }}
         </div>
     </div>
     {{ end }}
