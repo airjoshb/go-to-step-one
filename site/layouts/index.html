@@ -34,7 +34,22 @@
         </nav>
     </div>
 </header>
-{{ partial "update" . }}
+<div class="flex" id="list">
+  <div class="p-4">
+    <div class="mb-8">
+      {{ range first 3 .Pages.ByPublishDate.Reverse }}
+        <a href="{{ .RelPermalink }}" class="shadow-none hover:shadow-none">
+          {{ partial "text-and-image" (dict "heading" .Title "text" .Description "image" .Params.Image "imageclass" "shadow-lg hover:shadow-none border-r-8 h-64i border-solid border-green-brand" "textclass" "leading-tight mt-1 font-serif text-lg italic" "headingclass" "font-bold leading-none text-5xl font-serif text-brand capitalize") }}
+        </a>
+      {{ end }}
+    </div>
+   </div>
+  <div class="p-4">
+    <div class="mb-8">
+        {{ partial "update" . }}
+    </div>
+  </div>
+</div>
 <section id="about" class="bg-white p-8">
 {{ partial "text-and-image" (dict "heading" .Params.about.heading "text" .Params.about.text "image" .Params.about.image "imageclass" "rounded-full w-2/3" "headingclass" "font-bold text-3xl font-serif text-brand capitalize" "textclass" "text-lg leading-normal") }}
 </section>
