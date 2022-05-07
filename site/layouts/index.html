@@ -38,9 +38,9 @@
   <div class="p-4">
     <div class="mb-8">
       <h2 class="font-serif text-5xl text-grey-lightest text-right leading-none">Latest Posts</h2>
-      {{ range first 3 (where .Data.Pages "Type" "post").ByDate.Reverse }}
+      {{ range first 3 (where .Data.Pages "Type" "post").ByPublishDate.Reverse }}
         <a href="{{ .RelPermalink }}" class="shadow-none hover:shadow-none">
-          {{ partial "text-and-image" (dict "heading" .Title "text" .Description "image" .Date "date" .Params.Image "imageclass" "shadow-lg hover:shadow-none border-r-8 h-64i border-solid border-green-brand" "textclass" "leading-tight mt-1 font-serif text-lg italic" "headingclass" "font-bold leading-none text-5xl font-serif text-brand capitalize") }}
+          {{ partial "text-and-image" (dict "heading" .Title "text" .Description "image" .Date "publishdate" .Params.Image "imageclass" "shadow-lg hover:shadow-none border-r-8 h-64i border-solid border-green-brand" "textclass" "leading-tight mt-1 font-serif text-lg italic" "headingclass" "font-bold leading-none text-5xl font-serif text-brand capitalize") }}
         </a>
       {{ end }}
     </div>
