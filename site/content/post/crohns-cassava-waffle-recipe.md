@@ -8,7 +8,7 @@ categories: ['health', 'Crohn''s']
 tags: ['autoimmune disease', 'recipes']
 ---
 
-Here is a recipe for Cassava Waffles from my new cookbook, *(The Crohn's Disease AIP Cookbook)[https://amzn.to/3jwOg7j]*.
+Here is a recipe for Cassava Waffles from my new cookbook, *[The Crohn's Disease AIP Cookbook](https://amzn.to/3jwOg7j)*.
 
 Because of the high starch content, cassava flour makes a great waffle that crisps up on the outside but remains soft on the inside. These waffles have no grains, eggs, or dairy but will leave you and your whole family completely satisfied. These waffles can be made ahead and kept in the freezer. Toast as needed!
 
