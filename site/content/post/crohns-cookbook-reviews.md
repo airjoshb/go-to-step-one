@@ -2,6 +2,7 @@
 ---
 title: The Reviews Are In!
 date: 2022-05-19T00:12:46.000Z
+description: The reviews for my book, The Crohn's Disease AIP Cookbook are in!
 image: Crohn_sDiseaseAIPCookbook_9781638780403_Ebook_g0otah.jpg
 categories: ['books', 'crohns']
 tags: 'cookbook'
