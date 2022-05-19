@@ -3,6 +3,8 @@
 title: The Reviews Are In!
 date: 2022-05-19T00:12:46.000Z
 image: Crohn_sDiseaseAIPCookbook_9781638780403_Ebook_g0otah.jpg
+categories: ['books', 'crohns']
+tags: 'cookbook'
 ---
 
 My book is in the top 200 of the Abdominal Disorders & Diseases category today and is receiving some amazing reviews, including this one from Jane McGonigal (!)
@@ -24,4 +26,5 @@ I'm personally inspired to start using more cassava flour as a grain alternative
 - Amie Brooke, Licensed Acupuncturist and Herbalist, Owner of Blue Soulspace 
 
 You can still preorder here or get the Kindle version today!
+
 https://amzn.to/3jwOg7j 
