@@ -2,7 +2,7 @@
 ---
 title: Being a Founder With Crohn’s Disease
 description: >-
-  Being a founder with a chronic disease adds another layer to high-stress startup environment. I'm always working to find a way for Crohn's and meaningful work to co-exist.
+  Startup life can be high-stress, having a chronic illness like Crohn's adds another layer of complexity and daily challenges.
 date: 2022-05-24T10:11:19.000Z
 image: founder-sunrise_u0gghc.jpg
 categories: ['entrepreneurship','health, 'Crohn''s']
@@ -22,9 +22,9 @@ lead to a string of surgeries removing all or part of the digestive tract.
 ### That thing we call stress
 Stress is unavoidable, and can even be beneficial, as Kelly McGonigal writes in her book, The Upside of Stress, “Everyone has an Everest. Whether it’s a climb you chose, or a circumstance you find yourself in, you’re in the middle of an important journey. Can you imagine a climber scaling the wall of ice at Everest’s Lhotse Face and saying, “This is such a hassle”? Or spending the first night in the mountain’s “death zone” and thinking, “I don’t need this stress”?”
 
-Having an autoimmune disease can often be medical shorthand for, "we don't know what’s causing this, or how to stop it." Now what we are finding is that autoimmunity is the canary in the coal mine for the potential consequences of much of the modern life we’ve created—high anxiety, high environmental toxin load, very little movement, poor sleep, and a largely poisoned food supply. For those of us with autoimmune and chronic diseases, inflammation is our Everest, and mitigating the harmful effects of stress is our route to the top of that mountain. Add in the life of a founder and now there are two Everests to conquer, often feeling in competition with each other.
+Having an autoimmune disease can often be medical shorthand for, "we don't know what’s causing this, or how to stop it." Now what we are finding is that autoimmunity is the canary in the coal mine for the potential consequences of much of the modern life we’ve created—high anxiety, high environmental toxin load, very little movement, poor sleep, and a largely poisoned food supply. For those of us with autoimmune and chronic illnesses, inflammation is our Everest, and mitigating the harmful effects of stress is our route to the top of that mountain. Add in the life of a founder and now there are two Everests to conquer, often feeling in competition with each other.
  
-The pressures of startup life, with a cultural emphasis on working all day, every day, and relentless pressure to grow, can make life more difficult for people living with chronic diseases. The pandemic made it even easier to work endless hours as all of our interactions moved to Zoom. Many of the people I’ve met who have Crohn's and have put it into remission have given up a high-stress, unhappy, or abusive life to pursue their dreams and passions. 
+The pressures of startup life, with a cultural emphasis on working all day, every day, and relentless pressure to grow, can make life more difficult for people living with chronic illnesses. The pandemic made it even easier to work endless hours as all of our interactions moved to Zoom. Many of the people I’ve met who have Crohn's and have put it into remission have given up a high-stress, unhappy, or abusive life to pursue their dreams and passions. 
 
 I was the president of an e-commerce startup when I got sick 10 years ago and was unable to work full time as I struggled to get my health back. I never expected to be back in a founder role, but after seeing the power of the platform my co-founder, Mitch, built to truly erase the achievement gap for kids learning math, it was hard to ignore the call to work on something so meaningful. In the last couple of years, with issues of equity in education becoming even more visible and important, the question I’ve been left with is how do we build something that can impact millions, while staying healthy (and having strong and loving relationships!) at the same time?
  
