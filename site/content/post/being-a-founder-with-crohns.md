@@ -5,7 +5,7 @@ description: >-
   Startup life can be high-stress, having a chronic illness like Crohn's adds another layer of complexity and daily challenges.
 date: 2022-05-24T10:11:19.000Z
 image: founder-sunrise_u0gghc.jpg
-categories: ['entrepreneurship','health, 'Crohn''s']
+categories: ['entrepreneurship', 'health', 'Crohn''s']
 tags: ['autoimmune disease', 'entrepreneurship', 'Crohn''s']
 ---
 
