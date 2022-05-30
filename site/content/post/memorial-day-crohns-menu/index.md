@@ -1,5 +1,5 @@
 ---
-title: AIP Memorial Day Menus
+title: Memorial Day Cooking for Crohn's
 date: 2022-05-30T10:46:16.000Z
 description: >-
   Memorial Day weekend eating doesn’t have to leave you feeling terrible! You can put together a dozen trigger-free menus from my Autoimmune Protocol Cookbook. 
