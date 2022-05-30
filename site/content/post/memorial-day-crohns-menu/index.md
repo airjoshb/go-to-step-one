@@ -4,8 +4,8 @@ date: 2022-05-30T10:46:16.000Z
 description: >-
   Memorial Day weekend eating doesn’t have to leave you feeling terrible! You can put together a dozen trigger-free menus from my Autoimmune Protocol Cookbook. 
 image: pexels-harry-dona-bbq-chicken-wings_uh3bde.jpg
-categories: ['crohns','recipes']
-tags: ['cookbook','barbecue,'holiday menus']
+categories: ['crohn''s', 'recipes']
+tags: ['cookbook', 'barbecue', 'holiday menus']
 resources:
     - src: "celeriac-and-brussels-slaw.md"
     - src: "bbq-chicken-wings.md"
