@@ -14,26 +14,25 @@ resources:
 
 Memorial Day weekend eating doesn’t have to leave you feeling terrible 🤢! You can put together at least a dozen trigger-free menus suitable for any holiday barbecue or picnic from my Autoimmune Protocol Cookbook.  I wrote the book for people living with Crohn’s but the recipes are for anyone who wants to be sure their food is supporting a healthy immune and inflammation response. 
 
-Vegan:
-Barbecue Jackfruit with Celeriac and Brussels Slaw
+#### Vegan:
+Barbecue Jackfruit with Celeriac and Brussels Slaw\
 Grain-free Apple Crisp
 
-Fish/Seafood:
-Salmon Burgers with Baked Sweet Potatoes
+#### Fish/Seafood:
+Salmon Burgers with Baked Sweet Potatoes\
 Shrimp Tacos with Plantain Tortillas and Cilantro, Lime Slaw
 
-Meat:
-Lamb Burgers with Spinach Salad
+#### Meat:
+Lamb Burgers with Spinach Salad\
 Turkey Burgers with Butternut Squash Hash
 
-Appetizers:
-BBQ Chicken Wings
+#### Appetizers:
+BBQ Chicken Wings\
 Caramelized Roasted Brussels Sprouts
 
-Dessert:
-Grain-free, Dairy-Free Carrot Cake
+#### Dessert:
+Grain-free, Dairy-Free Carrot Cake\
 Coconut Blueberry Maple Ice Cream
 
-
-Get the book right now on Kindle for < $10!
+Get the Crohn's Disease AIP Cookbook right now on Kindle for < $10!
 https://amzn.to/3jwOg7j
