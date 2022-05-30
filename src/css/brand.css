@@ -113,6 +113,8 @@ blockquote {
     color: #6f6f6f;
  }
 
+ .update-image { width: 200px; margin: 0 auto;}
+
 @screen sm {}
 
 @media screen and (max-width: 768px) {
