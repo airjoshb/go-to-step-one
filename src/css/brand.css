@@ -74,14 +74,7 @@ nav a, nav a:hover {box-shadow: none;}
 #list img {
     @apply .relative;
     @apply .h-auto;
-    @apply .w-auto;
-    @apply .min-w-full;
-    @apply .min-h-full;
-    max-width: 240%;
-    top: 50%;
-    left: 50%;
-    -webkit-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
+    @apply .w-full;
 }
 #list .title {
     -webkit-writing-mode: vertical-rl;
@@ -89,7 +82,7 @@ nav a, nav a:hover {box-shadow: none;}
     writing-mode: vertical-rl;
 }
 #list .title-sans-image {word-break: break-word; font-size: 1.89rem;}
-#list-item {flex-basis: 33%;}
+#list-item {flex: 1 1 31.33%;}
 svg.green-brand {fill: config("colors.green-brand");}
 code { @apply .text-sm;}
 

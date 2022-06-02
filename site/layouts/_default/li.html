@@ -1,11 +1,11 @@
 <a href="{{ .RelPermalink }}" class="shadow-none">
-	<div class="flex h-64 no-underline w-64 justify-end">
+	<div class="flex h-64 no-underline justify-end">
 		{{ if .Params.image }}
-			<div class="h-64 overflow-hidden relative inline-block outline-none border-none shadow-lg hover:shadow-none">
-				<img src="https://res.cloudinary.com/airjoshb/image/upload/t_preview_size/v1556313746/{{ .Params.image }}" />
-			</div>
-			<div class="title mb-2 text-right">	
+			<div class="title text-right">	
 				<h2 class="text-3xl font-serif capitalize font-bold text-brand">{{ .Title }}</h2>
+			</div>
+			<div class="h-48 overflow-hidden relative outline-none border-none shadow-lg hover:shadow-none">
+				<img src="https://res.cloudinary.com/airjoshb/image/upload/t_preview_size/v1556313746/{{ .Params.image }}" />
 			</div>
 		{{ else }}
 			<div class="title-sans-image self-end">	
