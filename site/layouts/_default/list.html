@@ -8,7 +8,7 @@
     <div class="mb-16">
       {{ range first 1 .Pages.ByPublishDate.Reverse }}
         <a href="{{ .RelPermalink }}" class="shadow-none hover:shadow-none">
-          {{ partial "text-and-image" (dict "heading" .Title "text" .Description "image" .Params.Image "imageclass" "shadow-lg hover:shadow-none border-r-8 h-64i border-solid border-green-brand" "textclass" "leading-tight mt-1 font-serif text-lg italic" "headingclass" "font-bold leading-none text-5xl font-serif text-brand capitalize") }}
+          {{ partial "text-and-image" (dict "heading" .Title "text" .Description "image" .Params.Image "imageclass" "list-hero shadow-lg hover:shadow-none border-r-8 h-64i border-solid border-green-brand" "textclass" "leading-tight mt-1 font-serif text-lg italic" "headingclass" "font-bold leading-none text-5xl font-serif text-brand capitalize") }}
         </a>
       {{ end }}
     </div>

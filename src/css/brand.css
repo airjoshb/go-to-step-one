@@ -76,6 +76,18 @@ nav a, nav a:hover {box-shadow: none;}
     @apply .h-auto;
     @apply .w-full;
 }
+#list img.list-hero {
+    @apply .relative;
+    @apply .h-auto;
+    @apply .w-auto;
+    @apply .min-w-full;
+    @apply .min-h-full;
+    max-width: 240%;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
 #list .title {
     -webkit-writing-mode: vertical-rl;
     -ms-writing-mode: tb-rl;
