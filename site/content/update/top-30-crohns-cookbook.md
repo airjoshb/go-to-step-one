@@ -1,7 +1,7 @@
 
 ---
 title: Crohn's Cookbook in the top 30!
-date: 2020-02-08T16:06:22.528Z
+date: 2022-06-01T11:00:04.000Z
 image: top-30-crohns-cookbook_itl0x5.jpg
 ---
 I woke up today and my book is #30 in it's category! Let's get it into the top ten! 
