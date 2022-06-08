@@ -9,4 +9,4 @@ A new study shows a bidrectional link between IBD and depression. People with IB
 
 https://onlinelibrary.wiley.com/doi/10.1111/jgh.15855
 
-*Photo 25156595 / Depression © Vladimir Ovchinnikov | Dreamstime.com*
+<sub><sup>Photo 25156595 / Depression © Vladimir Ovchinnikov | Dreamstime.com</sub></sup>
