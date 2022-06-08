@@ -1,17 +1,22 @@
-<a href="{{ .RelPermalink }}" class="shadow-none">
-	<div class="flex h-64 no-underline justify-end">
-		<div class="title text-right">	
-			<h2 class="text-3xl font-serif capitalize font-bold text-brand">{{ .Title }}</h2>
-		</div>
-	</div>
+{{ if eq .Type "update" }}
 	{{ if .Params.image }}
 		<div class="h-48 overflow-hidden relative outline-none border-none shadow-lg hover:shadow-none">
 			<img src="https://res.cloudinary.com/airjoshb/image/upload/t_preview_size/v1556313746/{{ .Params.image }}" />
 		</div>
 	{{ end }}
-	{{ if eq .Type "update" }}
 		<div class=""><h5 class="border-t-8 border-solid border-green-brand text-md font-serif text-sm text-justify font-thin italic text-brand pt-2"><svg class="inline h-4 mr-1 align-middle green-brand" height="15" width="15"><circle cx="7.5" cy="7.5" r="6.5" stroke="transparent" fill="brand"></circle></svg>{{ .Content }}</h5></div>
-	{{ else }}
+{{ else }}
+	<a href="{{ .RelPermalink }}" class="shadow-none">
+		<div class="flex h-64 no-underline justify-end">
+			<div class="title text-right">	
+				<h2 class="text-3xl font-serif capitalize font-bold text-brand">{{ .Title }}</h2>
+			</div>
+		</div>
+		{{ if .Params.image }}
+			<div class="h-48 overflow-hidden relative outline-none border-none shadow-lg hover:shadow-none">
+				<img src="https://res.cloudinary.com/airjoshb/image/upload/t_preview_size/v1556313746/{{ .Params.image }}" />
+			</div>
+		{{ end }}
 		{{ if .Description }}<div class=""><h5 class="border-t-8 border-solid border-green-brand text-md font-serif text-sm text-justify font-thin italic text-brand pt-2"><svg class="inline h-4 mr-1 align-middle green-brand" height="15" width="15"><circle cx="7.5" cy="7.5" r="6.5" stroke="transparent" fill="brand"></circle></svg>{{ .Description }}</h5></div>{{ end }}
-	{{ end }}
-</a>
+	</a>
+{{ end }}
