@@ -164,7 +164,6 @@ blockquote {
     .update div { width: 90%; }
     .text-image container .text { @apply .w-full;}
     .text-image container { @apply .flex-wrap; }
-    nav {display: none;}
     #update, #blog, #list  { @apply .flex-col-reverse;}
     #content {@apply .flex-col;}
     #colophon, #body { @apply .w-full;}
