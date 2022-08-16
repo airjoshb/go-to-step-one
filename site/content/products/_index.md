@@ -41,7 +41,7 @@ testimonials:
   - author: Amie Brooke, licensed acupuncturist and herbalist, Owner of Blue Soulspace
     quote: >-
       As a healthcare practitioner, I see many patients with Crohn's disease who have not been helped by traditional medical advice and pharmaceutical interventions. I commonly see the missing link in nutritional and lifestyle shifts for chronic health conditions. This book provides clear, easy strategies for eliminating food triggers and more importantly, replacing them with nutritious dietary options that heal internal inflammation, create symptom relief, and offer long-term wellness. I'm personally inspired to start using more cassava flour as a grain alternative in my own cooking, and there are some fantastic recipes in here to explore!
-full_image: /img/products-full-width.jpg
+full_image: cookbook-food_g8fotm.jpg
 # pricing:
 #   heading: Monthly subscriptions
 #   description: >-

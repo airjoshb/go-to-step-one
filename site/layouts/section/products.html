@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div class="flex" id="products">
-  <div class="p-4"></div>
+  <div class="p-4">
     {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
     {{ partial "2-up" .Params.intro }}
