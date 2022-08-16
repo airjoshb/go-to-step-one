@@ -1,17 +1,5 @@
-<header class="w-full h-screen flex items-center relative overflow-hidden py-3 px-5 border-b-8 border-solid border-green-dark">
-  <img class="absolute l-0 t-0 h-auto" src=https://res.cloudinary.com/airjoshb/image/upload/t_post_size/v1556313746/{{.imageUrl}} />
-  
-  <div class="relative w-full text-right">
-    <a href="/" class="w-4 h-4">
-    {{ partial "logo" (dict "class" "fill-white w-12 h-12")  }}
-    </a> 
-    <h1 class="font-serif text-3xl white">
-      {{.title}}
-    </h1>
-    {{ if .subtitle }}
-    <p class="text-xl">
-      {{.subtitle}}
-    </p>
-    {{ end }}
+<div class="w-3/4 m-auto overflow-hidden px-5 pt-8 pb-4" id="">
+  <div class="mb-8 flex items-end">
+    <img class="w-3/5 border-r-8 border-solid border-green-brand" src=https://res.cloudinary.com/airjoshb/image/upload/t_post_size/v1556313746/{{.imageUrl}} />
   </div>
-</header>
+</div>
