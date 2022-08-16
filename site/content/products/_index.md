@@ -1,5 +1,5 @@
 ---
-title: Books & Things
+title: Crohn's Disease Cookbooks
 type: products
 image: Crohn_sDiseaseAIPCookbook_9781638780403_FacebookBusiness_f2jiya.jpg
 heading: Crohn's Disease Cookbooks
