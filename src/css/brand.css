@@ -134,8 +134,8 @@ blockquote {
  .update-image { width: 200px; margin: 0 auto;}
 
 @screen sm {}
-@screen lg {
-    .block {display:block !important;}
+@media (min-width: 992px) {
+    .lg\:block { display: block !important}
 }
 @media screen and (max-width: 768px) {
    .main {
