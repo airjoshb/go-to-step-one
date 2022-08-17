@@ -71,6 +71,7 @@ nav div.category:hover::before {
 nav#mobile div.nav-link:hover::before {
     content: "";
     position: absolute;
+    left: unset;
     right: 0px;
     bottom: -9px;
     width: 10px;
