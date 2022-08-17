@@ -10,13 +10,11 @@
     
       <div class="flex flex-row justify-around">
         {{ range .blurbs }}
-        <div class="w-1/4 conatainer flex justify-center items-center">
-          <div class="rounded-lg shadow-xl bg-white">
-            <div class="p-5">
-              <img src="https://res.cloudinary.com/airjoshb/image/upload/w_350,f_auto/{{.image}}" alt="" class="center db mb3" style="width: 240px">
-              <header class="text-lg pb-5"><p>{{.text}}</p></header>
-              <footer class="text-center space-x-5"><a href="{{.url}}" class="py-2 px-4 mt-5 bg-green rounded-lg text-white font-semibold hover:bg-green-600" target="_blank">Click to Order</a></footer>
-            </div>
+        <div class="lg:w-1/4 md:w-1/2 sm:w-3/5 m-5">
+          <div class="rounded-lg shadow-xl bg-white text-center p-5">
+            <img src="https://res.cloudinary.com/airjoshb/image/upload/w_350,f_auto/{{.image}}" alt="{{.text}}" class="w-full">
+            <header class="text-lg m-5"><p>{{.text}}</p></header>
+            <footer class="mb-5"><a href="{{.url}}" class="py-2 px-4 mt-5 bg-green rounded-lg text-white font-semibold hover:bg-green-600" target="_blank">Click to Order</a></footer>
           </div>
         </div>
         {{ end }}
