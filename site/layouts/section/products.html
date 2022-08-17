@@ -2,11 +2,12 @@
 <div class="flex" id="products">
   <div class="p-4">
     {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
-
+    
+    {{ with .Params.intro }}
     <div class="flex flex-row">
       <div class="ph3 mw7 center">
         <h2 class="f2 b lh-title mb2">{{.intro.heading}}</h2>
-        <p class="mb4 mw6">{{.intro.text}}</p>
+        <p class="mb4 mw6">{{.intro.description}}</p>
     
         <div class="flex flex-row mb3">
           {{ range .blurbs }}
@@ -19,6 +20,7 @@
         </div>
       </div>
     </div>
+    {{ end }}
     
 
 
