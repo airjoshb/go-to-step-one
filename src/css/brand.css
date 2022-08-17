@@ -38,6 +38,8 @@ figure img { @apply .w-full;}
 #toc ol { padding-left: 0; list-style-type: upper-roman; list-style-position: inside;}
 #toc ol li {padding: .3rem 0 .3rem;}
 ul li { @apply mb-4; @apply leading-tight;}
+.top-0 {top: 0;}
+.left-0 {left: 0;}
 header img {
     -webkit-transform: translate(-10%, -10%);
     transform: translate(-10%, -10%);
