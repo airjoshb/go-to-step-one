@@ -1,7 +1,7 @@
 body {
     background-color: #fff;
     color: #333;
-    font-size: 62.5%;
+    /* font-size: 62.5%; */
     @apply .font-sans;
     font-style: normal;
     font-weight: 400;
