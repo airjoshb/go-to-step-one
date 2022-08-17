@@ -68,7 +68,17 @@ nav div.category:hover::before {
     height: 15px;
     padding-top: 2.5px;
     border-radius: 50%;}
+nav#mobile div.nav-link:hover::before {
+    content: "";
+    position: absolute;
+    right: 0px;
+    bottom: -9px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    }
 nav#main div:hover::before {background-color: config("colors.brand");}
+nav#mobile div:hover::before {background-color: config("colors.green-brand");}
 nav a, nav a:hover {box-shadow: none;}
 .update p img {@apply .w-1/2; @apply .ml-2; @apply .mb-2; @apply .float-right; @apply .inline;}
 #body p img {@apply .w-2/5; @apply .pl-2; @apply .pb-2; @apply .float-right; @apply .inline; @apply .m-0;}
