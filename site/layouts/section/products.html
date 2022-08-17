@@ -4,7 +4,7 @@
     {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
     
     {{ with .Params.intro }}
-    <div class="flex flex-row px-5 pb-4">
+    <div class="flex flex-col px-5 pb-4">
       <h2 class="">{{.heading}}</h2>
       <p class="">{{.description}}</p>
     
@@ -15,7 +15,7 @@
             <div class="p-5">
               <img src="https://res.cloudinary.com/airjoshb/image/upload/w_350,f_auto/{{.image}}" alt="" class="center db mb3" style="width: 240px">
               <header class="text-lg pb-5"><p>{{.text}}</p></header>
-              <footer class="text-center space-x-5"><a href="{{.url}}" class="py-2 px-4 mt-5 bg-green> rounded-lg text-white font-semibold hover:bg-green-600" target="_blank">Click to Order</a></footer>
+              <footer class="text-center space-x-5"><a href="{{.url}}" class="py-2 px-4 mt-5 bg-green rounded-lg text-white font-semibold hover:bg-green-600" target="_blank">Click to Order</a></footer>
             </div>
           </div>
         </div>
