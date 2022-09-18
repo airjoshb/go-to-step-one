@@ -6,7 +6,8 @@ image: ostomy-awareness-day-2022_xkrbx5.png
 October 1st is Ostomy Awareness Day and I am running a virtual 5k to raise money for awareness and research. Please support me or better yet, sign up to run with me! 
 
 Support my run: https://runsignup.com/airjoshb
-This is a virtual event, so I created a team you can join here:
+
+This is a virtual event, so you can run from anywhere on my team!
 https://runsignup.com/Race/22873/Donate/zDMG4lMlREcppP5x
 
 If you're in Monterey, come join me on the 5k in person! 
