@@ -14,10 +14,10 @@ intro:
     - image: book-birthday_rmvblw.jpg
       text: >
         The Crohn's Disease AIP Cookbook 12-pack for health practitioners.
-      url: https://buy.stripe.com/aEU5kTdH5gAo9sk288
+      url: https://buy.stripe.com/cN228H32rfwk9sk3cd
   heading: Food focused on a healthy body, spirit, and gut
   description: >
-    So much of what's out there for dietary issues is focused on what you can't eat. I want to focus on what you can. Delicious and inspired food can come from any assortment of ingredients. Find yourself in the food you eat and what you can or can't becomes irrelavent.
+    So much of what's out there for dietary issues is focused on what you can't eat — I want to focus on what you can. Delicious and inspired food can come from any assortment of ingredients, find yourself in the food you eat and can or can't becomes irrelavent.
 # main:
 #   heading: Food focused on a healthy body, spirit, and gut
 #   description: >
