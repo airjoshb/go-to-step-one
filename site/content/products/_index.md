@@ -4,7 +4,7 @@ type: products
 image: Crohn_sDiseaseAIPCookbook_9781638780403_FacebookBusiness_f2jiya.jpg
 heading: Crohn's Disease Cookbooks
 description: >-
-  So much of what's out there for dietary issues is focused on what you can't eat. I want to focus on what you can. Delicious and inspired food can come from any assortment of ingredients. Find yourself in the food you eat and what you can or can't becomes irrelavent.
+  Crohn's Disease AIP Cookbook: Recipes to Reduce Inflammation and Eliminate Food Triggers on the Autoimmune Protocol. The Autoimmune Protocol (AIP) is a proven way to manage Crohn’s disease by gradually removing and reintroducing foods from your diet to see which ones make you feel your best.
 intro:
   blurbs:
     - image: cookbook-100px_lznphf.png
